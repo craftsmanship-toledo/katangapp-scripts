@@ -19,8 +19,6 @@ do
 
 	mkdir -p $PARENT_FOLDER
 
-	echo "idl;ido" > $OUTPUTFILE
-
-	curl http://unauto.twa.es/code/getparadas.php?idl=$l1 | sed -n 's:.*<map name="imgmap" id="imgmap">\(.*\)</map>.*:\1:p' | sed -e "s/<area/;<area/g" | tr ';' '\012' | grep 'mostrarInfoParadas' | sed -n "s:.*value, '\(.*\) onmouseout.*:\1:p" | sed -e "s/')//g" | sed -e 's/"//g' | sed -e "s/::/;/g" >> $OUTPUTFILE
+	curl http://unauto.twa.es/code/getparadas.php?idl=$l1 | sed -n 's:.*<map name="imgmap" id="imgmap">\(.*\)</map>.*:\1:p' | sed -e "s/<area/;<area/g" | tr ';' '\012' | grep 'mostrarInfoParadas' | sed -n "s:.*value, '\(.*\) onmouseout.*:\1:p" | sed -e "s/')//g" | sed -e 's/"//g' | sed -e "s/::/;/g" > $OUTPUTFILE
 
 done < $LINEAS_CSV
