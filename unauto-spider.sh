@@ -21,4 +21,20 @@ do
 
 	curl http://unauto.twa.es/code/getparadas.php?idl=$l1 | sed -n 's:.*<map name="imgmap" id="imgmap">\(.*\)</map>.*:\1:p' | sed -e "s/<area/;<area/g" | tr ';' '\012' | grep 'mostrarInfoParadas' | sed -n "s:.*value, '\(.*\) onmouseout.*:\1:p" | sed -e "s/')//g" | sed -e 's/"//g' | sed -e "s/::/;/g" > $OUTPUTFILE
 
+	# Creating a temporary file to write there the file
+
+	ADDRESSES_TEMP_FILE=$OUTPUTFILE".tmp"
+
+	while read idp ido
+	do
+		echo "Capturing Address for BusStop $idp with order $ido ..."
+
+		echo "$idp;$ido;`curl -s "http://unauto.twa.es/code/getparadas.php?idl=$l1&idp=$idp&ido=$ido" | sed -n 's:.*<h3 id="titparada">Parada\: \(.*\)</h3>.*:\1:p'`, Toledo, España" >> $ADDRESSES_TEMP_FILE
+
+	done < $OUTPUTFILE
+
+	# swap files
+
+	mv $ADDRESSES_TEMP_FILE $OUTPUTFILE
+
 done < $LINEAS_CSV
