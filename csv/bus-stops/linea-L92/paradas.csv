@@ -1,60 +1,60 @@
-P359;1.00000;Convento, Toledo, España
-P360;6.00000;Plaza  Holanda, Toledo, España
-P018;10.00000;Ronda Buenavista 24 (Iglesia), Toledo, España
-P019;11.00000;Ronda Buenavista 28 (C.Comercial), Toledo, España
-P020;18.00000;Zaragoza (Colegio), Toledo, España
-P021;20.00000;Lisboa (Gressy), Toledo, España
-P022;23.00000;Bruselas (Ambulatorio), Toledo, España
-P023;26.00000;, Toledo, España
-P024;28.00000;Division Azul (colegio), Toledo, España
-P025;32.00000;Avda Reconquista (Nodal), Toledo, España
-P026;33.00000;Avda Reconquista (Carmelitas), Toledo, España
-P027;34.00000;, Toledo, España
-317;39.00000;Bar El Clavel, Toledo, España
-P217;42.00000;Carrera (Fte muralla), Toledo, España
-P110;52.00000;Paseo de la Rosa (Fte Renfe), Toledo, España
-P111;54.00000;Paseo de la Rosa (Bar Telon), Toledo, España
-P112;58.00000;Plaza de Santa Barbara, Toledo, España
-P113;60.00000;Arroyo (Estanco), Toledo, España
-P114;62.00000;Esparteros 20, Toledo, España
-P115;65.00000;Avda Sta Barbara (Polideportivo), Toledo, España
-P116;67.00000;Avda Santa Barbara (Rotonda), Toledo, España
-315;84.00000;Via Tarpeya Rotonda, Toledo, España
-321;88.00000;Centro Comercial Eroski, Toledo, España
-P343a;97.00000;SESCAM, Toledo, España
-P343;98.00000;Avda Boladiez (Fte Television), Toledo, España
-P344;100.00000;Avda Boladiez (Fte. Res. Ancianos), Toledo, España
-P346;104.00000;Fresnedoso, 12, Toledo, España
-P390;106.00000;Fresnedoso (Kiosko Pepe), Toledo, España
-P359;224.00000;Convento, Toledo, España
-P320;216.00000;Frente Convento, Toledo, España
-P040;211.00000;Avda Francia (Ciudad Nara), Toledo, España
-P039;209.00000;Avda Francia (Sanidad), Toledo, España
-296;205.00000;, Toledo, España
-294;203.00000;Avda de Portugal - Ahorramas, Toledo, España
-P089;201.00000;Avda Barber (Chano), Toledo, España
-P090;200.00000;Avda Barber - Ambulatorio, Toledo, España
-P006;192.00000;Avda Reconquista, 20, Toledo, España
-P005;191.00000;Avda Reconquista, 14, Toledo, España
-P004;190.00000;Avda Reconquista, 6, Toledo, España
-P003;185.00000;Alfonso VI (Fuente), Toledo, España
-P211;180.00000;Rda. de Granadal (Est. Autobuses), Toledo, España
-P120;172.00000;Paseo de la Rosa (Renfe), Toledo, España
-P119;170.00000;Paseo de la Rosa (Fte Bar Telon), Toledo, España
-P118;169.00000;Paseo de la Rosa 15, Toledo, España
-P117;167.00000;Paseo de la Rosa (Estrella), Toledo, España
-P145;159.00000;Purisima Cocepcion, Toledo, España
-P144;157.00000;Plaza de Santa Barbara, Toledo, España
-P143;154.00000;Avda Santa  Barbara, Toledo, España
-P141;148.00000;Avda Santa Barbara, Toledo, España
-P140;131.00000;Jarama (Mercado Mayoristas), Toledo, España
-P139;127.00000;Jarama (A.B.M.), Toledo, España
-P138;126.00000;Jarama (Unauto), Toledo, España
+P359;1.00000;39.881565;-4.027802;Convento, Toledo, España
+P360;6.00000;39.879323;-4.030383;Plaza  Holanda, Toledo, España
+P018;10.00000;39.877237;-4.033278;Ronda Buenavista 24 (Iglesia), Toledo, España
+P019;11.00000;39.876257;-4.035733;Ronda Buenavista 28 (C.Comercial), Toledo, España
+P020;18.00000;39.875020;-4.034702;Zaragoza (Colegio), Toledo, España
+P021;20.00000;39.873167;-4.034890;Lisboa (Gressy), Toledo, España
+P022;23.00000;39.871698;-4.034108;Bruselas (Ambulatorio), Toledo, España
+P023;26.00000;39.870533;-4.031575;, Toledo, España
+P024;28.00000;39.869041;-4.029521;Division Azul (colegio), Toledo, España
+P025;32.00000;39.867238;-4.029306;Avda Reconquista (Nodal), Toledo, España
+P026;33.00000;39.865497;-4.028681;Avda Reconquista (Carmelitas), Toledo, España
+P027;34.00000;39.863010;-4.027696;, Toledo, España
+317;39.00000;39.862583;-4.024851;Bar El Clavel, Toledo, España
+P217;42.00000;39.863573;-4.022275;Carrera (Fte muralla), Toledo, España
+P110;52.00000;39.861982;-4.012230;Paseo de la Rosa (Fte Renfe), Toledo, España
+P111;54.00000;39.861566;-4.009281;Paseo de la Rosa (Bar Telon), Toledo, España
+P112;58.00000;39.860038;-4.005791;Plaza de Santa Barbara, Toledo, España
+P113;60.00000;39.859297;-4.004265;Arroyo (Estanco), Toledo, España
+P114;62.00000;39.858632;-4.001354;Esparteros 20, Toledo, España
+P115;65.00000;39.858973;-3.999633;Avda Sta Barbara (Polideportivo), Toledo, España
+P116;67.00000;39.860577;-4.000114;Avda Santa Barbara (Rotonda), Toledo, España
+315;84.00000;39.860675;-3.969087;Via Tarpeya Rotonda, Toledo, España
+321;88.00000;39.862096;-3.972643;Centro Comercial Eroski, Toledo, España
+P343a;97.00000;39.860301;-3.963263;SESCAM, Toledo, España
+P343;98.00000;39.861752;-3.956237;Avda Boladiez (Fte Television), Toledo, España
+P344;100.00000;                     ;Avda Boladiez (Fte. Res. Ancianos), Toledo, España
+P346;104.00000;                     ;Fresnedoso, 12, Toledo, España
+P390;106.00000;39.862283;-3.947177;Fresnedoso (Kiosko Pepe), Toledo, España
+P359;224.00000;39.881185;-4.027809;Convento, Toledo, España
+P320;216.00000;                     ;Frente Convento, Toledo, España
+P040;211.00000;39.879379;-4.029904;Avda Francia (Ciudad Nara), Toledo, España
+P039;209.00000;39.877594;-4.031654;Avda Francia (Sanidad), Toledo, España
+296;205.00000;39.876208;-4.033600;, Toledo, España
+294;203.00000;39.873673;-4.038033;Avda de Portugal - Ahorramas, Toledo, España
+P089;201.00000;                     ;Avda Barber (Chano), Toledo, España
+P090;200.00000;39.870301;-4.034035;Avda Barber - Ambulatorio, Toledo, España
+P006;192.00000;39.866973;-4.028987;Avda Reconquista, 20, Toledo, España
+P005;191.00000;39.865731;-4.028517;Avda Reconquista, 14, Toledo, España
+P004;190.00000;39.864145;-4.027884;Avda Reconquista, 6, Toledo, España
+P003;185.00000;39.862777;-4.025937;Alfonso VI (Fuente), Toledo, España
+P211;180.00000;39.863763;-4.020841;Rda. de Granadal (Est. Autobuses), Toledo, España
+P120;172.00000;39.862322;-4.012496;Paseo de la Rosa (Renfe), Toledo, España
+P119;170.00000;39.861839;-4.009253;Paseo de la Rosa (Fte Bar Telon), Toledo, España
+P118;169.00000;39.862095;-4.005556;Paseo de la Rosa 15, Toledo, España
+P117;167.00000;39.861941;-4.001968;Paseo de la Rosa (Estrella), Toledo, España
+P145;159.00000;39.860829;-4.003812;Purisima Concepcion, Toledo, España
+P144;157.00000;39.860186;-4.005392;Plaza de Santa Barbara, Toledo, España
+P143;154.00000;39.859066;-4.004305;Avda Santa  Barbara, Toledo, España
+P141;148.00000;39.859445;-3.999831;Avda Santa Barbara, Toledo, España
+P140;131.00000;39.864743;-3.974569;Jarama (Mercado Mayoristas), Toledo, España
+P139;127.00000;39.866259;-3.967873;Jarama (A.B.M.), Toledo, España
+P138;126.00000;39.868929, -3.960132;Jarama (Unauto), Toledo, España
 P137;125.00000;Jarama (conf. Estenilla), Toledo, España
 P182;124.00000;Jarama (Janssen), Toledo, España
-P183;123.00000;Jarama (conf Guadarrama), Toledo, España
-P342;122.00000;C/ Guadarrama Fte. Casa La Carne, Toledo, España
-P231;121.00000;, Toledo, España
-P230;117.00000;Guadarrama (Banesto), Toledo, España
+P183;123.00000;39.872909;-3.949305;Jarama (conf Guadarrama), Toledo, España
+P342;122.00000;39.869967;-3.946899;C/ Guadarrama Fte. Casa La Carne, Toledo, España
+P231;121.00000;39.866641;-3.945042;, Toledo, España
+P230;117.00000;39.863374;-3.943278;Guadarrama (Banesto), Toledo, España
 P394;111.00000;Guadarrama - Rtda Alcaceres, Toledo, España
 P194;109.00000;Guadarrama (Alcaceres), Toledo, España
