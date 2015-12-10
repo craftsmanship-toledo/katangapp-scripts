@@ -8,6 +8,20 @@ LINEAS_CSV=$CSV_FOLDER/lineas.csv
 
 curl -s http://unauto.twa.es/code/getlineas.php | sed -n 's:.*<a href="javascript\:mostrarParadas(\(.*\)</a>.*:\1:p' | sed -e 's/)">/;/g' | sed -e "s/'//g" | sed -e "s/&nbsp;//g" > $LINEAS_CSV
 
+# Generate the JSON from the CSV
+
+JSON_FOLDER="json"
+
+mkdir -p $JSON_FOLDER
+
+ROUTES_JSON=$JSON_FOLDER/routes.json
+
+echo "Generating the routes.json from the CSV..."
+
+echo '{ "routes": [ ' > $ROUTES_JSON
+
+# Generate the bus stops CSV files
+
 IFS=";"
 
 while read l1 l2
@@ -37,4 +51,15 @@ do
 
 	mv $ADDRESSES_TEMP_FILE $OUTPUTFILE
 
+	# generate the route entry in the routes.json file
+
+	echo '	{ "routeId": "'$l1'", "routeName": "'$l2'" },' >> $ROUTES_JSON
 done < $LINEAS_CSV
+
+# remove last comma
+
+cat $ROUTES_JSON | sed '$s/,$//' > $ROUTES_JSON.tmp && mv $ROUTES_JSON.tmp $ROUTES_JSON
+
+echo ']}' >> $ROUTES_JSON
+
+echo 'routes.json generated.'
