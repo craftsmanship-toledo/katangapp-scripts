@@ -1,15 +1,15 @@
-P255;1.00000;Pza del Conde (Palacio Fuensalida), Toledo, España
-P256;10.00000;Plaza Barrio Nuevo, Toledo, España
-P257;13.00000;, Toledo, España
-P258;20.00000;, Toledo, España
-P259;26.00000;Paseo de Recaredo (Rotonda), Toledo, España
-P004;31.00000;Avda Reconquista, 6, Toledo, España
-P005;32.00000;Avda Reconquista, 14, Toledo, España
-P006;33.00000;Avda Reconquista, 20, Toledo, España
-P007;41.00000;Division Azul (Piscina), Toledo, España
-P008;45.00000;Banderas de Castilla (Estanco), Toledo, España
-P009;49.00000;Bruselas (Ambulatorio), Toledo, España
-P010;52.00000;Lisboa (El Clavel), Toledo, España
+P255;1.00000;39.856182;-4.028232;Pza del Conde (Palacio Fuensalida), Toledo, España
+P256;10.00000;39.856448;-4.030335;Plaza Barrio Nuevo, Toledo, España
+P257;13.00000;39.857588;-4.031025;, Toledo, España
+P258;20.00000;39.859050;-4.031963;, Toledo, España
+P259;26.00000;39.862159;-4.0276796;Paseo de Recaredo (Rotonda), Toledo, España
+P004;31.00000;39.8641395;-4.0279529;Avda Reconquista, 6, Toledo, España
+P005;32.00000;39.865705;-4.028521;Avda Reconquista, 14, Toledo, España
+P006;33.00000;39.866840;-4.028954;Avda Reconquista, 20, Toledo, España
+P007;41.00000;39.869769;-4.029308;Division Azul (Piscina), Toledo, España
+P008;45.00000;39.871101;-4.031280;Banderas de Castilla (Estanco), Toledo, España
+P009;49.00000;39.872161;-4.034870;Bruselas (Ambulatorio), Toledo, España
+P010;52.00000;39.873320;-4.034623;Lisboa (El Clavel), Toledo, España
 P011;57.00000;Zaragoza (Colegio), Toledo, España
 P012;60.00000;Avda Portugal (Sta. Casilda), Toledo, España
 P255;167.00000;Pza del Conde (Palacio Fuensalida), Toledo, España
