@@ -5,6 +5,9 @@ CSV_FOLDER="csv"
 mkdir -p $CSV_FOLDER
 
 LINEAS_CSV=$CSV_FOLDER/lineas.csv
+PARADAS_CSV=$CSV_FOLDER/paradas.csv
+
+rm -fr $PARADAS_CSV
 
 curl -s http://unauto.twa.es/code/getlineas.php | sed -n 's:.*<a href="javascript\:mostrarParadas(\(.*\)</a>.*:\1:p' | sed -e 's/)">/;/g' | sed -e "s/'//g" | sed -e "s/&nbsp;//g" > $LINEAS_CSV
 
@@ -72,6 +75,14 @@ do
 		STOP_LONG=`echo $stopLong | sed -e "s/ //g"`
 
 		echo '			{ "id": "'$stopId'", "order": "'$STOP_ORDER'" },' >> $ROUTES_JSON
+
+		DUPLICATED_REGEXP=""$stopId';'$stopAddress
+
+		DUPLICATED_COUNT=`grep "$DUPLICATED_REGEXP" $PARADAS_CSV | wc -l`
+
+		if [ $DUPLICATED_COUNT -eq 0 ]; then
+			echo ''$stopId';'$stopAddress';'$STOP_LAT';'$STOP_LONG >> $PARADAS_CSV
+		fi
 
 		if [ "$STOP_LAT" == "" ] && [ "$STOP_LONG" == "" ]; then
 			echo "Do not adding bus stop id ["$stopId"] until LatLong are present"
