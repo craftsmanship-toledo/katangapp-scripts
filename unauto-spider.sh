@@ -16,9 +16,13 @@ mkdir -p $JSON_FOLDER
 
 ROUTES_JSON=$JSON_FOLDER/routes.json
 
-echo "Generating the routes.json from the CSV..."
+BUS_STOPS_JSON="$JSON_FOLDER/bus-stops.json"
+
+echo "Generating the routes.json and the bus-stops.json from the CSV..."
 
 echo '{ "routes": [ ' > $ROUTES_JSON
+
+echo '{ "busStops": [ ' > $BUS_STOPS_JSON
 
 # Generate the bus stops CSV files
 
@@ -66,6 +70,8 @@ do
 
 		echo '			{ "busStopId": "'$stopId'", "orderId": "'$STOP_ORDER'" },' >> $ROUTES_JSON
 
+		echo '	{ "busStopId": "'$stopId'", "address": "'$stopAddress'", "lat": "", "long": "" },' >> $BUS_STOPS_JSON
+
 	done < $OUTPUTFILE
 
 	cat $ROUTES_JSON | sed '$s/,$//' > $ROUTES_JSON.tmp && mv $ROUTES_JSON.tmp $ROUTES_JSON
@@ -79,6 +85,10 @@ done < $LINEAS_CSV
 
 cat $ROUTES_JSON | sed '$s/,$//' > $ROUTES_JSON.tmp && mv $ROUTES_JSON.tmp $ROUTES_JSON
 
+cat $BUS_STOPS_JSON | sed '$s/,$//' > $BUS_STOPS_JSON.tmp && mv $BUS_STOPS_JSON.tmp $BUS_STOPS_JSON
+
 echo ']}' >> $ROUTES_JSON
 
-echo 'routes.json generated.'
+echo ']}' >> $BUS_STOPS_JSON
+
+echo 'routes.json and bus-stops.json generated.'
