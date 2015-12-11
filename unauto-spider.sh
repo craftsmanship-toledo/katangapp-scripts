@@ -99,6 +99,10 @@ do
 
 done < $LINEAS_CSV
 
+# sort paradas file
+
+sort $PARADAS_CSV > $PARADAS_CSV.tmp && mv $PARADAS_CSV.tmp $PARADAS_CSV
+
 # remove last comma
 
 cat $ROUTES_JSON | sed '$s/,$//' > $ROUTES_JSON.tmp && mv $ROUTES_JSON.tmp $ROUTES_JSON
