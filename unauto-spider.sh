@@ -73,7 +73,11 @@ do
 
 		echo '			{ "id": "'$stopId'", "order": "'$STOP_ORDER'" },' >> $ROUTES_JSON
 
-		echo '	{ "id": "'$stopId'", "address": "'$stopAddress'", "lat": "'$STOP_LAT'", "long": "'$STOP_LONG'" },' >> $BUS_STOPS_JSON
+		if [ "$STOP_LAT" == "" ] && [ "$STOP_LONG" == "" ]; then
+			echo "Do not adding bus stop id ["$stopId"] until LatLong are present"
+		else
+			echo '	{ "id": "'$stopId'", "address": "'$stopAddress'", "lat": "'$STOP_LAT'", "long": "'$STOP_LONG'" },' >> $BUS_STOPS_JSON
+		fi
 
 	done < $OUTPUTFILE
 
