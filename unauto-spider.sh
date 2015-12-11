@@ -53,19 +53,25 @@ do
 
 	# generate the route entry and its bus stops in the routes.json file
 
-	echo '	{ "routeId": "'$l1'", "routeName": "'$l2'", "busStops": [' >> $ROUTES_JSON
+	echo '	{' >> $ROUTES_JSON
+	echo '		"routeId": "'$l1'",' >> $ROUTES_JSON
+	echo '		"routeName": "'$l2'",' >> $ROUTES_JSON
+	echo '		"busStops": [' >> $ROUTES_JSON
 
 	IFS=";"
 
 	while read stopId stopOrder stopAddress
 	do
-		echo '			{ "busStopId": "'$stopId'", "orderId": "'$stopOrder'" },' >> $ROUTES_JSON
+		STOP_ORDER=`echo $stopOrder | sed -e "s/ //g"`
+
+		echo '			{ "busStopId": "'$stopId'", "orderId": "'$STOP_ORDER'" },' >> $ROUTES_JSON
 
 	done < $OUTPUTFILE
 
 	cat $ROUTES_JSON | sed '$s/,$//' > $ROUTES_JSON.tmp && mv $ROUTES_JSON.tmp $ROUTES_JSON
 
-	echo '	]},' >> $ROUTES_JSON
+	echo '		]' >> $ROUTES_JSON
+	echo '	},' >> $ROUTES_JSON
 
 done < $LINEAS_CSV
 

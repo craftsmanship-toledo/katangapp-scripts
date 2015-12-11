@@ -1,5 +1,8 @@
 { "routes": [ 
-	{ "routeId": "41", "routeName": "(41)Zoco-Avda. Irlanda", "busStops": [
+	{
+		"routeId": "41",
+		"routeName": "(41)Zoco-Avda. Irlanda",
+		"busStops": [
 			{ "busStopId": "P001", "orderId": "1.00000" },
 			{ "busStopId": "P002", "orderId": "4.00000" },
 			{ "busStopId": "P032", "orderId": "12.00000" },
@@ -31,8 +34,12 @@
 			{ "busStopId": "P049", "orderId": "72.00000" },
 			{ "busStopId": "P048", "orderId": "71.00000" },
 			{ "busStopId": "P360", "orderId": "63.00000" }
-	]},
-	{ "routeId": "41b", "routeName": "(41b)Zoco-A.Irlanda- Italia", "busStops": [
+		]
+	},
+	{
+		"routeId": "41b",
+		"routeName": "(41b)Zoco-A.Irlanda- Italia",
+		"busStops": [
 			{ "busStopId": "P001", "orderId": "1.00000" },
 			{ "busStopId": "P002", "orderId": "4.00000" },
 			{ "busStopId": "P032", "orderId": "12.00000" },
@@ -66,8 +73,12 @@
 			{ "busStopId": "P049", "orderId": "87.00000" },
 			{ "busStopId": "P048", "orderId": "86.00000" },
 			{ "busStopId": "P360", "orderId": "78.00000" }
-	]},
-	{ "routeId": "42", "routeName": "(42)Zocodover-Alemania", "busStops": [
+		]
+	},
+	{
+		"routeId": "42",
+		"routeName": "(42)Zocodover-Alemania",
+		"busStops": [
 			{ "busStopId": "P001", "orderId": "1.00000" },
 			{ "busStopId": "P002", "orderId": "4.00000" },
 			{ "busStopId": "P003", "orderId": "13.00000" },
@@ -96,8 +107,12 @@
 			{ "busStopId": "P043", "orderId": "65.00000" },
 			{ "busStopId": "P042", "orderId": "64.00000" },
 			{ "busStopId": "P041", "orderId": "59.00000" }
-	]},
-	{ "routeId": "L01", "routeName": "(L01)Zocodover - Buenavista", "busStops": [
+		]
+	},
+	{
+		"routeId": "L01",
+		"routeName": "(L01)Zocodover - Buenavista",
+		"busStops": [
 			{ "busStopId": "P001", "orderId": "1.00000" },
 			{ "busStopId": "P002", "orderId": "6.00000" },
 			{ "busStopId": "P003", "orderId": "20.00000" },
@@ -128,8 +143,12 @@
 			{ "busStopId": "P015", "orderId": "75.00000" },
 			{ "busStopId": "P014", "orderId": "68.00000" },
 			{ "busStopId": "P013", "orderId": "61.00000" }
-	]},
-	{ "routeId": "L02", "routeName": "(L02)Pza Conde - Buenavista", "busStops": [
+		]
+	},
+	{
+		"routeId": "L02",
+		"routeName": "(L02)Pza Conde - Buenavista",
+		"busStops": [
 			{ "busStopId": "P255", "orderId": "1.00000" },
 			{ "busStopId": "P256", "orderId": "10.00000" },
 			{ "busStopId": "P257", "orderId": "13.00000" },
@@ -164,8 +183,12 @@
 			{ "busStopId": "P015", "orderId": "76.00000" },
 			{ "busStopId": "P014", "orderId": "70.00000" },
 			{ "busStopId": "P013", "orderId": "64.00000" }
-	]},
-	{ "routeId": "L03", "routeName": "(L03)Zoco-Valpara-Legua", "busStops": [
+		]
+	},
+	{
+		"routeId": "L03",
+		"routeName": "(L03)Zoco-Valpara-Legua",
+		"busStops": [
 			{ "busStopId": "P001", "orderId": "1.00000" },
 			{ "busStopId": "P002", "orderId": "5.00000" },
 			{ "busStopId": "P003", "orderId": "15.00000" },
@@ -210,8 +233,12 @@
 			{ "busStopId": "P084", "orderId": "144.00000" },
 			{ "busStopId": "P083", "orderId": "139.00000" },
 			{ "busStopId": "P350", "orderId": "118.00000" }
-	]},
-	{ "routeId": "L05", "routeName": "(L05)Zocodover- Sta Barbara", "busStops": [
+		]
+	},
+	{
+		"routeId": "L05",
+		"routeName": "(L05)Zocodover- Sta Barbara",
+		"busStops": [
 			{ "busStopId": "P001", "orderId": "1.00000" },
 			{ "busStopId": "P104", "orderId": "7.00000" },
 			{ "busStopId": "P032", "orderId": "18.00000" },
@@ -237,8 +264,12 @@
 			{ "busStopId": "P115", "orderId": "85.00000" },
 			{ "busStopId": "P114", "orderId": "78.00000" },
 			{ "busStopId": "P113", "orderId": "74.00000" }
-	]},
-	{ "routeId": "L10", "routeName": "(L10)Zocodover - Azucaica", "busStops": [
+		]
+	},
+	{
+		"routeId": "L10",
+		"routeName": "(L10)Zocodover - Azucaica",
+		"busStops": [
 			{ "busStopId": "P001", "orderId": "1.00000" },
 			{ "busStopId": "P002", "orderId": "5.00000" },
 			{ "busStopId": "P032", "orderId": "17.00000" },
@@ -262,8 +293,12 @@
 			{ "busStopId": "P313", "orderId": "112.00000" },
 			{ "busStopId": "P312c", "orderId": "99.00000" },
 			{ "busStopId": "P312b", "orderId": "98.00000" }
-	]},
-	{ "routeId": "L11", "routeName": "(L11)Zocodover-H.Provincial", "busStops": [
+		]
+	},
+	{
+		"routeId": "L11",
+		"routeName": "(L11)Zocodover-H.Provincial",
+		"busStops": [
 			{ "busStopId": "P001", "orderId": "1.00000" },
 			{ "busStopId": "P104", "orderId": "7.00000" },
 			{ "busStopId": "317", "orderId": "15.00000" },
@@ -277,8 +312,12 @@
 			{ "busStopId": "P326", "orderId": "52.00000" },
 			{ "busStopId": "P327", "orderId": "47.00000" },
 			{ "busStopId": "P303", "orderId": "41.00000" }
-	]},
-	{ "routeId": "L12", "routeName": "(L12)Cornisa- Pza Conde", "busStops": [
+		]
+	},
+	{
+		"routeId": "L12",
+		"routeName": "(L12)Cornisa- Pza Conde",
+		"busStops": [
 			{ "busStopId": "P058", "orderId": "1.00000" },
 			{ "busStopId": "P059", "orderId": "3.00000" },
 			{ "busStopId": "P060", "orderId": "10.00000" },
@@ -310,8 +349,12 @@
 			{ "busStopId": "P258", "orderId": "127.00000" },
 			{ "busStopId": "P257", "orderId": "121.00000" },
 			{ "busStopId": "P256", "orderId": "119.00000" }
-	]},
-	{ "routeId": "L5d", "routeName": "(L5d)Santa Barbara Directo", "busStops": [
+		]
+	},
+	{
+		"routeId": "L5d",
+		"routeName": "(L5d)Santa Barbara Directo",
+		"busStops": [
 			{ "busStopId": "P001", "orderId": "1.00000" },
 			{ "busStopId": "P104", "orderId": "7.00000" },
 			{ "busStopId": "317", "orderId": "17.00000" },
@@ -331,8 +374,12 @@
 			{ "busStopId": "P115", "orderId": "62.00000" },
 			{ "busStopId": "P114", "orderId": "55.00000" },
 			{ "busStopId": "P113", "orderId": "51.00000" }
-	]},
-	{ "routeId": "L61", "routeName": "(L61)Zocodover-Benquerencia", "busStops": [
+		]
+	},
+	{
+		"routeId": "L61",
+		"routeName": "(L61)Zocodover-Benquerencia",
+		"busStops": [
 			{ "busStopId": "P001", "orderId": "1.00000" },
 			{ "busStopId": "P104", "orderId": "7.00000" },
 			{ "busStopId": "317", "orderId": "19.00000" },
@@ -370,8 +417,12 @@
 			{ "busStopId": "P131", "orderId": "113.00000" },
 			{ "busStopId": "P130", "orderId": "111.00000" },
 			{ "busStopId": "P129", "orderId": "109.00000" }
-	]},
-	{ "routeId": "L62", "routeName": "(L62)Zoco-Benquerencia-Sur", "busStops": [
+		]
+	},
+	{
+		"routeId": "L62",
+		"routeName": "(L62)Zoco-Benquerencia-Sur",
+		"busStops": [
 			{ "busStopId": "P001", "orderId": "1.00000" },
 			{ "busStopId": "P104", "orderId": "7.00000" },
 			{ "busStopId": "317", "orderId": "19.00000" },
@@ -414,8 +465,12 @@
 			{ "busStopId": "P381", "orderId": "131.00000" },
 			{ "busStopId": "P380", "orderId": "128.00000" },
 			{ "busStopId": "P396", "orderId": "125.00000" }
-	]},
-	{ "routeId": "L71", "routeName": "(L71)Zocodover- Hosp Valle", "busStops": [
+		]
+	},
+	{
+		"routeId": "L71",
+		"routeName": "(L71)Zocodover- Hosp Valle",
+		"busStops": [
 			{ "busStopId": "P001", "orderId": "1.00000" },
 			{ "busStopId": "P002", "orderId": "5.00000" },
 			{ "busStopId": "P003", "orderId": "18.00000" },
@@ -436,8 +491,12 @@
 			{ "busStopId": "P285", "orderId": "127.00000" },
 			{ "busStopId": "P284", "orderId": "121.00000" },
 			{ "busStopId": "P283", "orderId": "101.00000" }
-	]},
-	{ "routeId": "L72", "routeName": "(L72)Zocodover - Montesion", "busStops": [
+		]
+	},
+	{
+		"routeId": "L72",
+		"routeName": "(L72)Zocodover - Montesion",
+		"busStops": [
 			{ "busStopId": "P001", "orderId": "1.00000" },
 			{ "busStopId": "P002", "orderId": "5.00000" },
 			{ "busStopId": "P003", "orderId": "18.00000" },
@@ -454,8 +513,12 @@
 			{ "busStopId": "P341", "orderId": "60.00000" },
 			{ "busStopId": "P340", "orderId": "57.00000" },
 			{ "busStopId": "P339", "orderId": "54.00000" }
-	]},
-	{ "routeId": "L72b", "routeName": "(L72b)Zocodover - Montes II", "busStops": [
+		]
+	},
+	{
+		"routeId": "L72b",
+		"routeName": "(L72b)Zocodover - Montes II",
+		"busStops": [
 			{ "busStopId": "P001", "orderId": "1.00000" },
 			{ "busStopId": "P002", "orderId": "4.00000" },
 			{ "busStopId": "P003", "orderId": "14.00000" },
@@ -474,8 +537,12 @@
 			{ "busStopId": "P340", "orderId": "102.00000" },
 			{ "busStopId": "P339", "orderId": "101.00000" },
 			{ "busStopId": "P338", "orderId": "98.00000" }
-	]},
-	{ "routeId": "L81", "routeName": "(L81)Est Autobus -Tres Cult", "busStops": [
+		]
+	},
+	{
+		"routeId": "L81",
+		"routeName": "(L81)Est Autobus -Tres Cult",
+		"busStops": [
 			{ "busStopId": "P109", "orderId": "1.00000" },
 			{ "busStopId": "P211", "orderId": "4.00000" },
 			{ "busStopId": "P032", "orderId": "10.00000" },
@@ -501,8 +568,12 @@
 			{ "busStopId": "P021", "orderId": "83.00000" },
 			{ "busStopId": "294", "orderId": "81.00000" },
 			{ "busStopId": "P445", "orderId": "62.00000" }
-	]},
-	{ "routeId": "L82", "routeName": "(L82)E Autobus-Paraplejicos", "busStops": [
+		]
+	},
+	{
+		"routeId": "L82",
+		"routeName": "(L82)E Autobus-Paraplejicos",
+		"busStops": [
 			{ "busStopId": "P109", "orderId": "1.00000" },
 			{ "busStopId": "P211", "orderId": "4.00000" },
 			{ "busStopId": "P032", "orderId": "10.00000" },
@@ -527,8 +598,12 @@
 			{ "busStopId": "P021", "orderId": "79.00000" },
 			{ "busStopId": "294", "orderId": "77.00000" },
 			{ "busStopId": "316", "orderId": "70.00000" }
-	]},
-	{ "routeId": "L83", "routeName": "(L83)Bus-Tres Cult-Paraple.", "busStops": [
+		]
+	},
+	{
+		"routeId": "L83",
+		"routeName": "(L83)Bus-Tres Cult-Paraple.",
+		"busStops": [
 			{ "busStopId": "P121", "orderId": "1.00000" },
 			{ "busStopId": "P121", "orderId": "2.00000" },
 			{ "busStopId": "P211", "orderId": "5.00000" },
@@ -558,8 +633,12 @@
 			{ "busStopId": "P021", "orderId": "154.00000" },
 			{ "busStopId": "294", "orderId": "152.00000" },
 			{ "busStopId": "316", "orderId": "143.00000" }
-	]},
-	{ "routeId": "L91", "routeName": "(L91)Benquerencia-Buenavist", "busStops": [
+		]
+	},
+	{
+		"routeId": "L91",
+		"routeName": "(L91)Benquerencia-Buenavist",
+		"busStops": [
 			{ "busStopId": "P128", "orderId": "1.00000" },
 			{ "busStopId": "P129", "orderId": "5.00000" },
 			{ "busStopId": "P130", "orderId": "6.00000" },
@@ -607,8 +686,12 @@
 			{ "busStopId": "P165", "orderId": "125.00000" },
 			{ "busStopId": "P024", "orderId": "116.00000" },
 			{ "busStopId": "P023", "orderId": "114.00000" }
-	]},
-	{ "routeId": "L92", "routeName": "(L92)Ambulatorio-Benquerenc", "busStops": [
+		]
+	},
+	{
+		"routeId": "L92",
+		"routeName": "(L92)Ambulatorio-Benquerenc",
+		"busStops": [
 			{ "busStopId": "P359", "orderId": "1.00000" },
 			{ "busStopId": "P360", "orderId": "6.00000" },
 			{ "busStopId": "P018", "orderId": "10.00000" },
@@ -661,16 +744,20 @@
 			{ "busStopId": "P140", "orderId": "131.00000" },
 			{ "busStopId": "P139", "orderId": "127.00000" },
 			{ "busStopId": "P138", "orderId": "126.00000" },
-			{ "busStopId": "P137", "orderId": "125.00000                     " },
-			{ "busStopId": "P182", "orderId": "124.00000                     " },
+			{ "busStopId": "P137", "orderId": "125.00000" },
+			{ "busStopId": "P182", "orderId": "124.00000" },
 			{ "busStopId": "P183", "orderId": "123.00000" },
 			{ "busStopId": "P342", "orderId": "122.00000" },
 			{ "busStopId": "P231", "orderId": "121.00000" },
 			{ "busStopId": "P230", "orderId": "117.00000" },
-			{ "busStopId": "P394", "orderId": "111.00000                     " },
-			{ "busStopId": "P194", "orderId": "109.00000                     " }
-	]},
-	{ "routeId": "L93", "routeName": "(L93)Benquerencia Buenav-3", "busStops": [
+			{ "busStopId": "P394", "orderId": "111.00000" },
+			{ "busStopId": "P194", "orderId": "109.00000" }
+		]
+	},
+	{
+		"routeId": "L93",
+		"routeName": "(L93)Benquerencia Buenav-3",
+		"busStops": [
 			{ "busStopId": "P128", "orderId": "1.00000" },
 			{ "busStopId": "P129", "orderId": "5.00000" },
 			{ "busStopId": "P130", "orderId": "6.00000" },
@@ -731,8 +818,12 @@
 			{ "busStopId": "P165", "orderId": "145.00000" },
 			{ "busStopId": "P024", "orderId": "136.00000" },
 			{ "busStopId": "P023", "orderId": "134.00000" }
-	]},
-	{ "routeId": "L94", "routeName": "(L94)Zocodover- Benqueren.", "busStops": [
+		]
+	},
+	{
+		"routeId": "L94",
+		"routeName": "(L94)Zocodover- Benqueren.",
+		"busStops": [
 			{ "busStopId": "P001", "orderId": "1.00000" },
 			{ "busStopId": "P104", "orderId": "6.00000" },
 			{ "busStopId": "317", "orderId": "15.00000" },
@@ -782,5 +873,6 @@
 			{ "busStopId": "P388", "orderId": "122.00000" },
 			{ "busStopId": "P387", "orderId": "120.00000" },
 			{ "busStopId": "P386", "orderId": "117.00000" }
-	]}
+		]
+	}
 ]}
