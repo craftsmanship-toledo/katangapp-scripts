@@ -64,13 +64,16 @@ do
 
 	IFS=";"
 
-	while read stopId stopOrder stopAddress
+	while read stopId stopOrder stopAddress stopLat stopLong
 	do
 		STOP_ORDER=`echo $stopOrder | sed -e "s/ //g"`
 
+		STOP_LAT=`echo $stopLat | sed -e "s/ //g"`
+		STOP_LONG=`echo $stopLong | sed -e "s/ //g"`
+
 		echo '			{ "busStopId": "'$stopId'", "orderId": "'$STOP_ORDER'" },' >> $ROUTES_JSON
 
-		echo '	{ "busStopId": "'$stopId'", "address": "'$stopAddress'", "lat": "", "long": "" },' >> $BUS_STOPS_JSON
+		echo '	{ "busStopId": "'$stopId'", "address": "'$stopAddress'", "lat": "'$STOP_LAT'", "long": "'$STOP_LONG'" },' >> $BUS_STOPS_JSON
 
 	done < $OUTPUTFILE
 
