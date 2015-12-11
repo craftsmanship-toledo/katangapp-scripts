@@ -58,8 +58,8 @@ do
 	# generate the route entry and its bus stops in the routes.json file
 
 	echo '	{' >> $ROUTES_JSON
-	echo '		"routeId": "'$l1'",' >> $ROUTES_JSON
-	echo '		"routeName": "'$l2'",' >> $ROUTES_JSON
+	echo '		"id": "'$l1'",' >> $ROUTES_JSON
+	echo '		"name": "'$l2'",' >> $ROUTES_JSON
 	echo '		"busStops": [' >> $ROUTES_JSON
 
 	IFS=";"
@@ -71,9 +71,9 @@ do
 		STOP_LAT=`echo $stopLat | sed -e "s/ //g"`
 		STOP_LONG=`echo $stopLong | sed -e "s/ //g"`
 
-		echo '			{ "busStopId": "'$stopId'", "orderId": "'$STOP_ORDER'" },' >> $ROUTES_JSON
+		echo '			{ "id": "'$stopId'", "order": "'$STOP_ORDER'" },' >> $ROUTES_JSON
 
-		echo '	{ "busStopId": "'$stopId'", "address": "'$stopAddress'", "lat": "'$STOP_LAT'", "long": "'$STOP_LONG'" },' >> $BUS_STOPS_JSON
+		echo '	{ "id": "'$stopId'", "address": "'$stopAddress'", "lat": "'$STOP_LAT'", "long": "'$STOP_LONG'" },' >> $BUS_STOPS_JSON
 
 	done < $OUTPUTFILE
 
