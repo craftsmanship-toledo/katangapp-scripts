@@ -31,16 +31,16 @@ echo '{ "busStops": [ ' > $BUS_STOPS_JSON
 
 IFS=";"
 
-while read l1 l2
+while read routeId routeDescription
 do
-	PARENT_FOLDER="$CSV_FOLDER/bus-stops/linea-$l1"
+	PARENT_FOLDER="$CSV_FOLDER/bus-stops/linea-$routeId"
 	OUTPUTFILE="$PARENT_FOLDER/paradas.csv"
 
-	echo "Capturing BusStops for Line [$l1] - $l2 ..."
+	echo "Capturing BusStops for Line [$routeId] - $routeDescription ..."
 
 	mkdir -p $PARENT_FOLDER
 
-	curl -s http://unauto.twa.es/code/getparadas.php?idl=$l1 | sed -n 's:.*<map name="imgmap" id="imgmap">\(.*\)</map>.*:\1:p' | sed -e "s/<area/;<area/g" | tr ';' '\012' | grep 'mostrarInfoParadas' | sed -n "s:.*value, '\(.*\) onmouseout.*:\1:p" | sed -e "s/')//g" | sed -e 's/"//g' | sed -e "s/::/;/g" > $OUTPUTFILE
+	curl -s http://unauto.twa.es/code/getparadas.php?idl=$routeId | sed -n 's:.*<map name="imgmap" id="imgmap">\(.*\)</map>.*:\1:p' | sed -e "s/<area/;<area/g" | tr ';' '\012' | grep 'mostrarInfoParadas' | sed -n "s:.*value, '\(.*\) onmouseout.*:\1:p" | sed -e "s/')//g" | sed -e 's/"//g' | sed -e "s/::/;/g" > $OUTPUTFILE
 
 	# Creating a temporary file to write there the file
 
@@ -50,7 +50,7 @@ do
 	do
 		echo "Capturing Address for BusStop $idp with order $ido ..."
 
-		echo "$idp;$ido;`curl -s "http://unauto.twa.es/code/getparadas.php?idl=$l1&idp=$idp&ido=$ido" | sed -n 's:.*<h3 id="titparada">Parada\: \(.*\)</h3>.*:\1:p'`, Toledo, España" >> $ADDRESSES_TEMP_FILE
+		echo "$idp;$ido;`curl -s "http://unauto.twa.es/code/getparadas.php?idl=$routeId&idp=$idp&ido=$ido" | sed -n 's:.*<h3 id="titparada">Parada\: \(.*\)</h3>.*:\1:p'`, Toledo, España" >> $ADDRESSES_TEMP_FILE
 
 	done < $OUTPUTFILE
 
@@ -61,8 +61,8 @@ do
 	# generate the route entry and its bus stops in the routes.json file
 
 	echo '	{' >> $ROUTES_JSON
-	echo '		"id": "'$l1'",' >> $ROUTES_JSON
-	echo '		"name": "'$l2'",' >> $ROUTES_JSON
+	echo '		"id": "'$routeId'",' >> $ROUTES_JSON
+	echo '		"name": "'$routeDescription'",' >> $ROUTES_JSON
 	echo '		"busStops": [' >> $ROUTES_JSON
 
 	IFS=";"
