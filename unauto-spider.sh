@@ -113,11 +113,13 @@ sort $PARADAS_CSV > $PARADAS_CSV.tmp && mv $PARADAS_CSV.tmp $PARADAS_CSV
 
 cat $ROUTES_JSON | sed '$s/,$//' > $ROUTES_JSON.tmp && mv $ROUTES_JSON.tmp $ROUTES_JSON
 
-cat $BUS_STOPS_JSON | sed '$s/,$//' > $BUS_STOPS_JSON.tmp && mv $BUS_STOPS_JSON.tmp $BUS_STOPS_JSON
-
 echo ']}' >> $ROUTES_JSON
 
-# sort bus-stops.json file
+## Building bus-stops.json
+
+cat $BUS_STOPS_JSON | sed '$s/,$//' > $BUS_STOPS_JSON.tmp && mv $BUS_STOPS_JSON.tmp $BUS_STOPS_JSON
+
+# sort bus stops
 
 sort $BUS_STOPS_JSON > $BUS_STOPS_JSON.tmp
 
