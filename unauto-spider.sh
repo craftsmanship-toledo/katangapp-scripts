@@ -21,6 +21,8 @@ ROUTES_JSON=$JSON_FOLDER/routes.json
 
 BUS_STOPS_JSON="$JSON_FOLDER/bus-stops.json"
 
+rm -f $BUS_STOPS_JSON
+
 echo "Generating the routes.json and the bus-stops.json from the CSV..."
 
 echo '{ "routes": [ ' > $ROUTES_JSON
