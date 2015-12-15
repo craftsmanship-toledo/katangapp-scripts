@@ -10,13 +10,13 @@
 P001;Corralillo de San Miguel, Toledo, España;;
 P002;Alferez Provisional, 1, Toledo, España;;
 P003;Alfonso VI (Fuente), Toledo, España;;
-P004;Avda Reconquista, 6, Toledo, España;;
-P005;Avda Reconquista, 14, Toledo, España;;
-P006;Avda Reconquista, 20, Toledo, España;;
-P007;Division Azul (Piscina), Toledo, España;;
-P008;Banderas de Castilla (Estanco), Toledo, España;;
-P009;Bruselas (Ambulatorio), Toledo, España;;
-P010;Lisboa (El Clavel), Toledo, España;;
+P004;Avda Reconquista, 6, Toledo, España;39.8641395;-4.0279529
+P005;Avda Reconquista, 14, Toledo, España;39.865705;-4.028521
+P006;Avda Reconquista, 20, Toledo, España;39.866840;-4.028954
+P007;Division Azul (Piscina), Toledo, España;39.869769;-4.029308
+P008;Banderas de Castilla (Estanco), Toledo, España;39.871101;-4.031280
+P009;Bruselas (Ambulatorio), Toledo, España;39.872161;-4.034870
+P010;Lisboa (El Clavel), Toledo, España;39.873320;-4.034623
 P011;Zaragoza (Colegio), Toledo, España;;
 P012;Avda Portugal (Sta. Casilda), Toledo, España;;
 P013;Ronda Buenavista, 4, Toledo, España;;
@@ -24,16 +24,16 @@ P014;Ronda Buenavista, 6, Toledo, España;;
 P015;Ronda Buenavista, 16 (Alcosto), Toledo, España;;
 P016;Ronda Buenavista 18, Toledo, España;;
 P017;Ronda Buenavista 22 (Maristas), Toledo, España;;
-P018;Ronda Buenavista 24 (Iglesia), Toledo, España;;
-P019;Ronda Buenavista 28 (C.Comercial), Toledo, España;;
-P020;Zaragoza (Colegio), Toledo, España;;
-P021;Lisboa (Gressy), Toledo, España;;
-P022;Bruselas (Ambulatorio), Toledo, España;;
-P023;, Toledo, España;;
-P024;Division Azul (colegio), Toledo, España;;
-P025;Avda Reconquista (Nodal), Toledo, España;;
-P026;Avda Reconquista (Carmelitas), Toledo, España;;
-P027;, Toledo, España;;
+P018;Ronda Buenavista 24 (Iglesia), Toledo, España;39.877237;-4.033278
+P019;Ronda Buenavista 28 (C.Comercial), Toledo, España;39.876257;-4.035733
+P020;Zaragoza (Colegio), Toledo, España;39.875020;-4.034702
+P021;Lisboa (Gressy), Toledo, España;39.873167;-4.034890
+P022;Bruselas (Ambulatorio), Toledo, España;39.871698;-4.034108
+P023;, Toledo, España;39.870533;-4.031575
+P024;Division Azul (colegio), Toledo, España;39.869041;-4.029521
+P025;Avda Reconquista (Nodal), Toledo, España;39.867238;-4.029306
+P026;Avda Reconquista (Carmelitas), Toledo, España;39.865497;-4.028681
+P027;, Toledo, España;39.863010;-4.027696
 P028;Puerta Bisagra Interior, Toledo, España;;
 P029;Zocodover (Cuesta Carlos V), Toledo, España;;
 P032;Cardenal Tavera (La Vega), Toledo, España;;
@@ -105,7 +105,6 @@ P117;Paseo de la Rosa (Estrella), Toledo, España;;
 P118;Paseo de la Rosa 15, Toledo, España;;
 P119;Paseo de la Rosa (Fte Bar Telon), Toledo, España;;
 P120;Paseo de la Rosa (Renfe), Toledo, España;;
-P121;, Toledo, España;;
 P121;Estacion Autobuses (Vta), Toledo, España;;
 P122;Avd Castilla la Mancha -Est Futbol, Toledo, España;;
 P128;Rio Alberche 112 (Cabecera 9), Toledo, España;;
@@ -155,11 +154,11 @@ P251;, Toledo, España;;
 P252;Puente San Martin, Toledo, España;;
 P253;Reyes Catolicos, Toledo, España;;
 P254;, Toledo, España;;
-P255;Pza del Conde (Palacio Fuensalida), Toledo, España;;
-P256;Plaza Barrio Nuevo, Toledo, España;;
-P257;, Toledo, España;;
-P258;, Toledo, España;;
-P259;Paseo de Recaredo (Rotonda), Toledo, España;;
+P255;Pza del Conde (Palacio Fuensalida), Toledo, España;39.856182;-4.028232
+P256;Plaza Barrio Nuevo, Toledo, España;39.856448;-4.030335
+P257;, Toledo, España;39.857588;-4.031025
+P258;, Toledo, España;39.859050;-4.031963
+P259;Paseo de Recaredo (Rotonda), Toledo, España;39.862159;-4.0276796
 P271;Avda La Cava (Rtda Alfonso VI), Toledo, España;;
 P272;Ctra Navalpino (Puente), Toledo, España;;
 P273;Ctra Navalpino (Olivilla), Toledo, España;;
