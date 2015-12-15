@@ -89,7 +89,13 @@ do
 		if [ "$STOP_LAT" == "" ] && [ "$STOP_LONG" == "" ]; then
 			echo "Do not adding bus stop id ["$stopId"] until LatLong are present"
 		else
-			echo '	{ "id": "'$stopId'", "address": "'$stopAddress'", "lat": "'$STOP_LAT'", "long": "'$STOP_LONG'" },' >> $BUS_STOPS_JSON
+			DUPLICATED_REGEXP="id\": \""$stopId'\", \"address\": \"'$stopAddress
+
+			DUPLICATED_COUNT=`grep "$DUPLICATED_REGEXP" $BUS_STOPS_JSON | wc -l`
+
+			if [ $DUPLICATED_COUNT -eq 0 ]; then
+				echo '	{ "id": "'$stopId'", "address": "'$stopAddress'", "lat": "'$STOP_LAT'", "long": "'$STOP_LONG'" },' >> $BUS_STOPS_JSON
+			fi
 		fi
 
 	done < $OUTPUTFILE
