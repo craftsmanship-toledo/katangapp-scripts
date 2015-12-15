@@ -12,7 +12,7 @@ P323;17.00000;Avda Boladiez (Television), Toledo, España
 321b;26.00000;Centro Comercial Eroski, Toledo, España
 P324;34.00000;Via Tarpeya (Rotonda), Toledo, España
 P178;39.00000;Arroyomolinos (Gasolinera), Toledo, España
-P140;44.00000;Jarama (Mercado Mayoristas), Toledo, España
+P140;44.00000;Jarama (Mercado Mayoristas), Toledo, España;39.864743;-3.974569
 P122;74.00000;Avd Castilla la Mancha -Est Futbol, Toledo, España
 P034;80.00000;General Villalba 19, Toledo, España
 P153;82.00000;General Villalba 3, Toledo, España
@@ -34,9 +34,9 @@ P225;210.00000;Rio Alberche (Edificio Correos), Toledo, España
 P224;208.00000;Rio Alberche 26, Toledo, España
 P223;205.00000;Rio Alberche 6, Toledo, España
 P344;200.00000;Avda Boladiez (Fte. Res. Ancianos), Toledo, España
-P343;196.00000;Avda Boladiez (Fte Television), Toledo, España
-P343a;195.00000;SESCAM, Toledo, España
-321;186.00000;Centro Comercial Eroski, Toledo, España
+P343;196.00000;Avda Boladiez (Fte Television), Toledo, España;39.861752;-3.956237
+P343a;195.00000;SESCAM, Toledo, España;39.860301;-3.963263
+321;186.00000;Centro Comercial Eroski, Toledo, España;39.862096;-3.972643
 P393;177.00000;Rotonda Mercadona, Toledo, España
 P108;142.00000;Avd Castilla La Mancha -Est Futbol, Toledo, España
 P107;133.00000;Ronda San Anton (Bomberos), Toledo, España

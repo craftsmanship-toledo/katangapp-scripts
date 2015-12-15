@@ -1,9 +1,9 @@
 P001;1.00000;Corralillo de San Miguel, Toledo, España
 P104;7.00000;Zocodover (Plaza), Toledo, España
-317;19.00000;Bar El Clavel, Toledo, España
-P217;24.00000;Carrera (Fte muralla), Toledo, España
-P110;41.00000;Paseo de la Rosa (Fte Renfe), Toledo, España
-P111;44.00000;Paseo de la Rosa (Bar Telon), Toledo, España
+317;19.00000;Bar El Clavel, Toledo, España;39.862583;-4.024851
+P217;24.00000;Carrera (Fte muralla), Toledo, España;39.863573;-4.022275
+P110;41.00000;Paseo de la Rosa (Fte Renfe), Toledo, España;39.861982;-4.012230
+P111;44.00000;Paseo de la Rosa (Bar Telon), Toledo, España;39.861566;-4.009281
 P220;46.00000;Paseo de la Rosa (San Marcos), Toledo, España
 P221;51.00000;Paseo de la Rosa (Estrella), Toledo, España
 P370;80.00000;Rio Cabriel (Fte E. Hosteleria), Toledo, España
@@ -20,11 +20,11 @@ P128;104.00000;Rio Alberche 112 (Cabecera 9), Toledo, España
 P001;205.00000;Corralillo de San Miguel, Toledo, España
 P029;199.00000;Zocodover (Cuesta Carlos V), Toledo, España
 P028;190.00000;Puerta Bisagra Interior, Toledo, España
-P211;183.00000;Rda. de Granadal (Est. Autobuses), Toledo, España
-P120;173.00000;Paseo de la Rosa (Renfe), Toledo, España
-P119;169.00000;Paseo de la Rosa (Fte Bar Telon), Toledo, España
-P118;168.00000;Paseo de la Rosa 15, Toledo, España
-P117;165.00000;Paseo de la Rosa (Estrella), Toledo, España
+P211;183.00000;Rda. de Granadal (Est. Autobuses), Toledo, España;39.863763;-4.020841
+P120;173.00000;Paseo de la Rosa (Renfe), Toledo, España;39.862322;-4.012496
+P119;169.00000;Paseo de la Rosa (Fte Bar Telon), Toledo, España;39.861839;-4.009253
+P118;168.00000;Paseo de la Rosa 15, Toledo, España;39.862095;-4.005556
+P117;165.00000;Paseo de la Rosa (Estrella), Toledo, España;39.861941;-4.001968
 P375;132.00000;Rio Cabriel (Fte E. Hosteleria), Toledo, España
 P374;130.00000;Rio Cabriel (Archivo), Toledo, España
 P373;126.00000;Tras Consejeria Industria, Toledo, España

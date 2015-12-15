@@ -1,14 +1,14 @@
 P001;1.00000;Corralillo de San Miguel, Toledo, España
 P104;6.00000;Zocodover (Plaza), Toledo, España
-317;15.00000;Bar El Clavel, Toledo, España
-P217;18.00000;Carrera (Fte muralla), Toledo, España
-P110;32.00000;Paseo de la Rosa (Fte Renfe), Toledo, España
-P111;36.00000;Paseo de la Rosa (Bar Telon), Toledo, España
-P112;41.00000;Plaza de Santa Barbara, Toledo, España
-P113;44.00000;Arroyo (Estanco), Toledo, España
-P114;46.00000;Esparteros 20, Toledo, España
-P115;50.00000;Avda Sta Barbara (Polideportivo), Toledo, España
-P116;53.00000;Avda Santa Barbara (Rotonda), Toledo, España
+317;15.00000;Bar El Clavel, Toledo, España;39.862583;-4.024851
+P217;18.00000;Carrera (Fte muralla), Toledo, España;39.863573;-4.022275
+P110;32.00000;Paseo de la Rosa (Fte Renfe), Toledo, España;39.861982;-4.012230
+P111;36.00000;Paseo de la Rosa (Bar Telon), Toledo, España;39.861566;-4.009281
+P112;41.00000;Plaza de Santa Barbara, Toledo, España;39.860038;-4.005791
+P113;44.00000;Arroyo (Estanco), Toledo, España;39.859297;-4.004265
+P114;46.00000;Esparteros 20, Toledo, España;39.858632;-4.001354
+P115;50.00000;Avda Sta Barbara (Polideportivo), Toledo, España;39.858973;-3.999633
+P116;53.00000;Avda Santa Barbara (Rotonda), Toledo, España;39.860577;-4.000114
 P178;79.00000;Arroyomolinos (Gasolinera), Toledo, España
 P179;83.00000;Jarama (Campsa), Toledo, España
 P180;85.00000;Jarama (Unauto), Toledo, España
@@ -25,21 +25,21 @@ P385;107.00000;Rio Alberche (cabecera), Toledo, España
 P001;208.00000;Corralillo de San Miguel, Toledo, España
 P029;203.00000;Zocodover (Cuesta Carlos V), Toledo, España
 P028;196.00000;Puerta Bisagra Interior, Toledo, España
-P211;189.00000;Rda. de Granadal (Est. Autobuses), Toledo, España
-P120;181.00000;Paseo de la Rosa (Renfe), Toledo, España
-P119;178.00000;Paseo de la Rosa (Fte Bar Telon), Toledo, España
-P118;177.00000;Paseo de la Rosa 15, Toledo, España
-P117;174.00000;Paseo de la Rosa (Estrella), Toledo, España
-P145;170.00000;Purisima Cocepcion, Toledo, España
-P144;168.00000;Plaza de Santa Barbara, Toledo, España
-P143;164.00000;Avda Santa  Barbara, Toledo, España
-P141;156.00000;Avda Santa Barbara, Toledo, España
-P140;137.00000;Jarama (Mercado Mayoristas), Toledo, España
-P139;133.00000;Jarama (A.B.M.), Toledo, España
-P138;132.00000;Jarama (Unauto), Toledo, España
+P211;189.00000;Rda. de Granadal (Est. Autobuses), Toledo, España;39.863763;-4.020841
+P120;181.00000;Paseo de la Rosa (Renfe), Toledo, España;39.862322;-4.012496
+P119;178.00000;Paseo de la Rosa (Fte Bar Telon), Toledo, España;39.861839;-4.009253
+P118;177.00000;Paseo de la Rosa 15, Toledo, España;39.862095;-4.005556
+P117;174.00000;Paseo de la Rosa (Estrella), Toledo, España;39.861941;-4.001968
+P145;170.00000;Purisima Concepcion, Toledo, España;39.860829;-4.003812
+P144;168.00000;Plaza de Santa Barbara, Toledo, España;39.860186;-4.005392
+P143;164.00000;Avda Santa  Barbara, Toledo, España;39.859066;-4.004305
+P141;156.00000;Avda Santa Barbara, Toledo, España;39.859445;-3.999831
+P140;137.00000;Jarama (Mercado Mayoristas), Toledo, España;39.864743;-3.974569
+P139;133.00000;Jarama (A.B.M.), Toledo, España;39.866259;-3.967873
+P138;132.00000;Jarama (Unauto), Toledo, España;39.868929, -3.960132
 P137;131.00000;Jarama (conf. Estenilla), Toledo, España
 P182;129.00000;Jarama (Janssen), Toledo, España
-P183;128.00000;Jarama (conf Guadarrama), Toledo, España
+P183;128.00000;Jarama (conf Guadarrama), Toledo, España;39.872909;-3.949305
 P184;127.00000;Jarama (ITV), Toledo, España
 P185;126.00000;, Toledo, España
 P186;125.00000;Jarama (Trinaranjus), Toledo, España

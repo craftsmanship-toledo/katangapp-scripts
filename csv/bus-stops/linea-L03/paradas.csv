@@ -1,6 +1,6 @@
 P001;1.00000;Corralillo de San Miguel, Toledo, España
 P002;5.00000;Alferez Provisional, 1, Toledo, España
-P003;15.00000;Alfonso VI (Fuente), Toledo, España
+P003;15.00000;Alfonso VI (Fuente), Toledo, España;39.862777;-4.025937
 P004;19.00000;Avda Reconquista, 6, Toledo, España;39.8641395;-4.0279529
 P005;20.00000;Avda Reconquista, 14, Toledo, España;39.865705;-4.028521
 P006;21.00000;Avda Reconquista, 20, Toledo, España;39.866840;-4.028954
@@ -36,8 +36,8 @@ P051;162.00000;Avda Europa (Fte Iglesia), Toledo, España
 P050;161.00000;Avda Europa (Tenis), Toledo, España
 P049;160.00000;Avda Europa (Parque), Toledo, España
 P048;159.00000;Avda Europa (Altos Vellavista), Toledo, España
-296;156.00000;, Toledo, España
-294;154.00000;Avda de Portugal - Ahorramas, Toledo, España
+296;156.00000;, Toledo, España;39.876208;-4.033600
+294;154.00000;Avda de Portugal - Ahorramas, Toledo, España;39.873673;-4.038033
 P085;147.00000;, Toledo, España
 P084;144.00000;Cigarr Vistahermosa 2, Toledo, España
 P083;139.00000;Cigarr Vistahermosa 1, Toledo, España

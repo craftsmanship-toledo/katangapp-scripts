@@ -1,13 +1,13 @@
 P001;1.00000;Corralillo de San Miguel, Toledo, España
 P104;7.00000;Zocodover (Plaza), Toledo, España
-317;15.00000;Bar El Clavel, Toledo, España
-P217;18.00000;Carrera (Fte muralla), Toledo, España
+317;15.00000;Bar El Clavel, Toledo, España;39.862583;-4.024851
+P217;18.00000;Carrera (Fte muralla), Toledo, España;39.863573;-4.022275
 P304;38.00000;Hospital Provincial, Toledo, España
 P001;71.00000;Corralillo de San Miguel, Toledo, España
 P029;68.00000;Zocodover (Cuesta Carlos V), Toledo, España
 P028;63.00000;Puerta Bisagra Interior, Toledo, España
-P211;58.00000;Rda. de Granadal (Est. Autobuses), Toledo, España
-P120;54.00000;Paseo de la Rosa (Renfe), Toledo, España
+P211;58.00000;Rda. de Granadal (Est. Autobuses), Toledo, España;39.863763;-4.020841
+P120;54.00000;Paseo de la Rosa (Renfe), Toledo, España;39.862322;-4.012496
 P326;52.00000;Cabrahigos, 9 (Fte tercera Edad), Toledo, España
 P327;47.00000;CabraHigos (Colegio Angel Alcazar), Toledo, España
 P303;41.00000;Academia Infanteria, Toledo, España

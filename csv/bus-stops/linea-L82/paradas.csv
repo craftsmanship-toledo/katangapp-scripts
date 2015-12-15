@@ -1,16 +1,16 @@
 P109;1.00000;Estacion de Autobuses (Ida), Toledo, España
-P211;4.00000;Rda. de Granadal (Est. Autobuses), Toledo, España
+P211;4.00000;Rda. de Granadal (Est. Autobuses), Toledo, España;39.863763;-4.020841
 P032;10.00000;Cardenal Tavera (La Vega), Toledo, España
 P033;12.00000;M. Mendigorria (Cines), Toledo, España
 P034;19.00000;General Villalba 19, Toledo, España
 P153;22.00000;General Villalba 3, Toledo, España
 P361;23.00000;General Villalba - pabellones, Toledo, España
-P090;32.00000;Avda Barber - Ambulatorio, Toledo, España
+P090;32.00000;Avda Barber - Ambulatorio, Toledo, España;39.870301;-4.034035
 P089;33.00000;Avda Barber (Chano), Toledo, España
 P087;39.00000;Clinica el Rosario, Toledo, España
 P086;52.00000;, Toledo, España
 P121;120.00000;Estacion Autobuses (Vta), Toledo, España
-P217;112.00000;Carrera (Fte muralla), Toledo, España
+P217;112.00000;Carrera (Fte muralla), Toledo, España;39.863573;-4.022275
 P056;107.00000;Cardenal Tavera (La Vega), Toledo, España
 P055;106.00000;M. Mendigorria (colegio), Toledo, España
 P054;103.00000;M. Mendigorria (Electricistas), Toledo, España
@@ -20,5 +20,5 @@ P165;95.00000;General Villalba (Escuela), Toledo, España
 P024;88.00000;Division Azul (colegio), Toledo, España;39.869041;-4.029521
 P022;83.00000;Bruselas (Ambulatorio), Toledo, España;39.871698;-4.034108
 P021;79.00000;Lisboa (Gressy), Toledo, España;39.873167;-4.034890
-294;77.00000;Avda de Portugal - Ahorramas, Toledo, España
+294;77.00000;Avda de Portugal - Ahorramas, Toledo, España;39.873673;-4.038033
 316;70.00000;Clinica el Rosario (Vta), Toledo, España

@@ -1,17 +1,17 @@
 P001;1.00000;Corralillo de San Miguel, Toledo, España
 P104;7.00000;Zocodover (Plaza), Toledo, España
-317;19.00000;Bar El Clavel, Toledo, España
-P217;24.00000;Carrera (Fte muralla), Toledo, España
-P110;41.00000;Paseo de la Rosa (Fte Renfe), Toledo, España
+317;19.00000;Bar El Clavel, Toledo, España;39.862583;-4.024851
+P217;24.00000;Carrera (Fte muralla), Toledo, España;39.863573;-4.022275
+P110;41.00000;Paseo de la Rosa (Fte Renfe), Toledo, España;39.861982;-4.012230
 P111;44.00000;Paseo de la Rosa (Bar Telon), Toledo, España
 P220;46.00000;Paseo de la Rosa (San Marcos), Toledo, España
 P221;51.00000;Paseo de la Rosa (Estrella), Toledo, España
-315;74.00000;Via Tarpeya Rotonda, Toledo, España
-P343a;79.00000;SESCAM, Toledo, España
-P343;80.00000;Avda Boladiez (Fte Television), Toledo, España
+315;74.00000;Via Tarpeya Rotonda, Toledo, España;39.860675;-3.969087
+P343a;79.00000;SESCAM, Toledo, España;39.860301;-3.963263
+P343;80.00000;Avda Boladiez (Fte Television), Toledo, España;39.861752;-3.956237
 P344;82.00000;Avda Boladiez (Fte. Res. Ancianos), Toledo, España
 P346;88.00000;Fresnedoso, 12, Toledo, España
-P390;90.00000;Fresnedoso (Kiosko Pepe), Toledo, España
+P390;90.00000;Fresnedoso (Kiosko Pepe), Toledo, España;39.862283;-3.947177
 P194;91.00000;Guadarrama (Alcaceres), Toledo, España
 P376;98.00000;Rio Mesa, Toledo, España
 P377;102.00000;Rio Mesa (con Casacajoso), Toledo, España
@@ -22,11 +22,11 @@ P128;118.00000;Rio Alberche 112 (Cabecera 9), Toledo, España
 P001;253.00000;Corralillo de San Miguel, Toledo, España
 P029;247.00000;Zocodover (Cuesta Carlos V), Toledo, España
 P028;238.00000;Puerta Bisagra Interior, Toledo, España
-P211;231.00000;Rda. de Granadal (Est. Autobuses), Toledo, España
-P120;221.00000;Paseo de la Rosa (Renfe), Toledo, España
-P119;217.00000;Paseo de la Rosa (Fte Bar Telon), Toledo, España
-P118;216.00000;Paseo de la Rosa 15, Toledo, España
-P117;213.00000;Paseo de la Rosa (Estrella), Toledo, España
+P211;231.00000;Rda. de Granadal (Est. Autobuses), Toledo, España;39.863763;-4.020841
+P120;221.00000;Paseo de la Rosa (Renfe), Toledo, España;39.862322;-4.012496
+P119;217.00000;Paseo de la Rosa (Fte Bar Telon), Toledo, España;39.861839;-4.009253
+P118;216.00000;Paseo de la Rosa 15, Toledo, España;39.862095;-4.005556
+P117;213.00000;Paseo de la Rosa (Estrella), Toledo, España;39.861941;-4.001968
 P324;176.00000;Via Tarpeya (Rotonda), Toledo, España
 323b;171.00000;SESCAM, Toledo, España
 P323;169.00000;Avda Boladiez (Television), Toledo, España
@@ -34,7 +34,7 @@ P322;166.00000;Avda Boladiez (Res. Ancianos), Toledo, España
 P384;156.00000;Fresnedoso 12, Toledo, España
 P197;155.00000;Fresnedoso (Ciudad Toledo), Toledo, España
 P197a;154.00000;Fresnedoso Fte Kiosko Pepe, Toledo, España
-P230;147.00000;Guadarrama (Banesto), Toledo, España
+P230;147.00000;Guadarrama (Banesto), Toledo, España;39.863374;-3.943278
 P383;140.00000;Rio Mesa, Toledo, España
 P382;135.00000;Rio Mesa (con Cascajoso), Toledo, España
 P381;131.00000;C/ Cascajoso (Estadio), Toledo, España

@@ -4,11 +4,11 @@ P060;10.00000;Carr. S. Sebastian (Bajada Barco), Toledo, España
 P061;18.00000;Paseo de Cabestreros, Toledo, España
 P062;25.00000;Cervantes, Toledo, España
 P104;38.00000;Zocodover (Plaza), Toledo, España
-317;45.00000;Bar El Clavel, Toledo, España
-P217;49.00000;Carrera (Fte muralla), Toledo, España
+317;45.00000;Bar El Clavel, Toledo, España;39.862583;-4.024851
+P217;49.00000;Carrera (Fte muralla), Toledo, España;39.863573;-4.022275
 P121;59.00000;Estacion Autobuses (Vta), Toledo, España
-P211;63.00000;Rda. de Granadal (Est. Autobuses), Toledo, España
-P003;70.00000;Alfonso VI (Fuente), Toledo, España
+P211;63.00000;Rda. de Granadal (Est. Autobuses), Toledo, España;39.863763;-4.020841
+P003;70.00000;Alfonso VI (Fuente), Toledo, España;39.862777;-4.025937
 P251;79.00000;, Toledo, España
 P252;86.00000;Puente San Martin, Toledo, España
 P253;99.00000;Reyes Catolicos, Toledo, España
@@ -22,9 +22,9 @@ P098;174.00000;Cervantes, Toledo, España
 P001;171.00000;Corralillo de San Miguel, Toledo, España
 P029;166.00000;Zocodover (Cuesta Carlos V), Toledo, España
 P028;159.00000;Puerta Bisagra Interior, Toledo, España
-P211;153.00000;Rda. de Granadal (Est. Autobuses), Toledo, España
+P211;153.00000;Rda. de Granadal (Est. Autobuses), Toledo, España;39.863763;-4.020841
 P109;147.00000;Estacion de Autobuses (Ida), Toledo, España
-P217;139.00000;Carrera (Fte muralla), Toledo, España
+P217;139.00000;Carrera (Fte muralla), Toledo, España;39.863573;-4.022275
 P259;132.00000;Paseo de Recaredo (Rotonda), Toledo, España;39.862159;-4.0276796
 P258;127.00000;, Toledo, España;39.859050;-4.031963
 P257;121.00000;, Toledo, España;39.857588;-4.031025

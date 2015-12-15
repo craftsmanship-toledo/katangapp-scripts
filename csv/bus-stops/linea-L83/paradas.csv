@@ -1,12 +1,12 @@
 P121;1.00000;Estacion Autobuses (Vta), Toledo, España
 P121;2.00000;Estacion Autobuses (Vta), Toledo, España
-P211;5.00000;Rda. de Granadal (Est. Autobuses), Toledo, España
+P211;5.00000;Rda. de Granadal (Est. Autobuses), Toledo, España;39.863763;-4.020841
 P032;17.00000;Cardenal Tavera (La Vega), Toledo, España
 P033;19.00000;M. Mendigorria (Cines), Toledo, España
 P034;29.00000;General Villalba 19, Toledo, España
 P153;32.00000;General Villalba 3, Toledo, España
 P361;34.00000;General Villalba - pabellones, Toledo, España
-P090;47.00000;Avda Barber - Ambulatorio, Toledo, España
+P090;47.00000;Avda Barber - Ambulatorio, Toledo, España;39.870301;-4.034035
 P089;48.00000;Avda Barber (Chano), Toledo, España
 P330;62.00000;Ctra Avila (Rtda Fte El Chuletero), Toledo, España
 P331;72.00000;Hospital Tres Culturas, Toledo, España
@@ -15,7 +15,7 @@ P088;96.00000;Rotonda Avila (Gasolinera), Toledo, España
 P087;99.00000;Clinica el Rosario, Toledo, España
 P086;123.00000;, Toledo, España
 P121;196.00000;Estacion Autobuses (Vta), Toledo, España
-P217;187.00000;Carrera (Fte muralla), Toledo, España
+P217;187.00000;Carrera (Fte muralla), Toledo, España;39.863573;-4.022275
 P056;180.00000;Cardenal Tavera (La Vega), Toledo, España
 P055;179.00000;M. Mendigorria (colegio), Toledo, España
 P054;176.00000;M. Mendigorria (Electricistas), Toledo, España
@@ -25,5 +25,5 @@ P165;169.00000;General Villalba (Escuela), Toledo, España
 P024;163.00000;Division Azul (colegio), Toledo, España;39.869041;-4.029521
 P022;157.00000;Bruselas (Ambulatorio), Toledo, España;39.871698;-4.034108
 P021;154.00000;Lisboa (Gressy), Toledo, España;39.873167;-4.034890
-294;152.00000;Avda de Portugal - Ahorramas, Toledo, España
+294;152.00000;Avda de Portugal - Ahorramas, Toledo, España;39.873673;-4.038033
 316;143.00000;Clinica el Rosario (Vta), Toledo, España

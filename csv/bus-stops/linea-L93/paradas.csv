@@ -12,11 +12,11 @@ P323;17.00000;Avda Boladiez (Television), Toledo, España
 321b;26.00000;Centro Comercial Eroski, Toledo, España
 P324;34.00000;Via Tarpeya (Rotonda), Toledo, España
 P178;39.00000;Arroyomolinos (Gasolinera), Toledo, España
-P140;44.00000;Jarama (Mercado Mayoristas), Toledo, España
-P117;58.00000;Paseo de la Rosa (Estrella), Toledo, España
-P118;60.00000;Paseo de la Rosa 15, Toledo, España
-P119;61.00000;Paseo de la Rosa (Fte Bar Telon), Toledo, España
-P120;64.00000;Paseo de la Rosa (Renfe), Toledo, España
+P140;44.00000;Jarama (Mercado Mayoristas), Toledo, España;39.864743;-3.974569
+P117;58.00000;Paseo de la Rosa (Estrella), Toledo, España;39.861941;-4.001968
+P118;60.00000;Paseo de la Rosa 15, Toledo, España;39.862095;-4.005556
+P119;61.00000;Paseo de la Rosa (Fte Bar Telon), Toledo, España;39.861839;-4.009253
+P120;64.00000;Paseo de la Rosa (Renfe), Toledo, España;39.862322;-4.012496
 P121;71.00000;Estacion Autobuses (Vta), Toledo, España
 P122;94.00000;Avd Castilla la Mancha -Est Futbol, Toledo, España
 P034;100.00000;General Villalba 19, Toledo, España
@@ -39,17 +39,17 @@ P225;253.00000;Rio Alberche (Edificio Correos), Toledo, España
 P224;251.00000;Rio Alberche 26, Toledo, España
 P223;248.00000;Rio Alberche 6, Toledo, España
 P344;243.00000;Avda Boladiez (Fte. Res. Ancianos), Toledo, España
-P343;239.00000;Avda Boladiez (Fte Television), Toledo, España
-P343a;237.00000;SESCAM, Toledo, España
-321;228.00000;Centro Comercial Eroski, Toledo, España
-315;224.00000;Via Tarpeya Rotonda, Toledo, España
-P116;204.00000;Avda Santa Barbara (Rotonda), Toledo, España
-P115;201.00000;Avda Sta Barbara (Polideportivo), Toledo, España
-P114;196.00000;Esparteros 20, Toledo, España
-P113;194.00000;Arroyo (Estanco), Toledo, España
-P112;192.00000;Plaza de Santa Barbara, Toledo, España
-P111;187.00000;Paseo de la Rosa (Bar Telon), Toledo, España
-P110;183.00000;Paseo de la Rosa (Fte Renfe), Toledo, España
+P343;239.00000;Avda Boladiez (Fte Television), Toledo, España;39.861752;-3.956237
+P343a;237.00000;SESCAM, Toledo, España;39.860301;-3.963263
+321;228.00000;Centro Comercial Eroski, Toledo, España;39.862096;-3.972643
+315;224.00000;Via Tarpeya Rotonda, Toledo, España;39.860675;-3.969087
+P116;204.00000;Avda Santa Barbara (Rotonda), Toledo, España;39.860577;-4.000114
+P115;201.00000;Avda Sta Barbara (Polideportivo), Toledo, España;39.858973;-3.999633
+P114;196.00000;Esparteros 20, Toledo, España;39.858632;-4.001354
+P113;194.00000;Arroyo (Estanco), Toledo, España;39.859297;-4.004265
+P112;192.00000;Plaza de Santa Barbara, Toledo, España;39.860038;-4.005791
+P111;187.00000;Paseo de la Rosa (Bar Telon), Toledo, España;39.861566;-4.009281
+P110;183.00000;Paseo de la Rosa (Fte Renfe), Toledo, España;39.861982;-4.012230
 P109;169.00000;Estacion de Autobuses (Ida), Toledo, España
 P108;162.00000;Avd Castilla La Mancha -Est Futbol, Toledo, España
 P107;153.00000;Ronda San Anton (Bomberos), Toledo, España
