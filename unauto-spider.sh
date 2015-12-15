@@ -27,8 +27,6 @@ echo "Generating the routes.json and the bus-stops.json from the CSV..."
 
 echo '{ "routes": [ ' > $ROUTES_JSON
 
-echo '{ "busStops": [ ' > $BUS_STOPS_JSON
-
 # Generate the bus stops CSV files
 
 IFS=";"
@@ -119,6 +117,16 @@ cat $BUS_STOPS_JSON | sed '$s/,$//' > $BUS_STOPS_JSON.tmp && mv $BUS_STOPS_JSON.
 
 echo ']}' >> $ROUTES_JSON
 
+# sort bus-stops.json file
+
+sort $BUS_STOPS_JSON > $BUS_STOPS_JSON.tmp
+
+echo '{ "busStops": [ ' > $BUS_STOPS_JSON
+
+cat $BUS_STOPS_JSON.tmp >> $BUS_STOPS_JSON
+
 echo ']}' >> $BUS_STOPS_JSON
+
+rm $BUS_STOPS_JSON.tmp
 
 echo 'routes.json and bus-stops.json generated.'
