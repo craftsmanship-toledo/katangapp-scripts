@@ -117,11 +117,11 @@ echo ']}' >> $ROUTES_JSON
 
 ## Building bus-stops.json
 
-cat $BUS_STOPS_JSON | sed '$s/,$//' > $BUS_STOPS_JSON.tmp && mv $BUS_STOPS_JSON.tmp $BUS_STOPS_JSON
-
 # sort bus stops
 
 sort $BUS_STOPS_JSON > $BUS_STOPS_JSON.tmp
+
+cat $BUS_STOPS_JSON.tmp | sed '$s/,$//' > $BUS_STOPS_JSON.sort && mv $BUS_STOPS_JSON.sort $BUS_STOPS_JSON.tmp
 
 echo '{ "busStops": [ ' > $BUS_STOPS_JSON
 
