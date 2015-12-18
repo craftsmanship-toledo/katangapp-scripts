@@ -1,4 +1,4 @@
-P001;1.00000;Corralillo de San Miguel, Toledo, España
+P001;1.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
 P002;4.00000;Alferez Provisional, 1, Toledo, España
 P032;12.00000;Cardenal Tavera (La Vega), Toledo, España;39.863504;-4.024522
 P033;13.00000;M. Mendigorria (Cines), Toledo, España;39.866516;-4.022734
@@ -17,8 +17,8 @@ P043;41.00000;Alemania, Esq. Reino Unido, Toledo, España
 P046;43.00000;Reino Unido, Toledo, España
 P329;49.00000;Avda Irlanda, Farmacia, Toledo, España
 P359;56.00000;Convento, Toledo, España;39.881565;-4.027802
-P001;96.00000;Corralillo de San Miguel, Toledo, España
-P029;93.00000;Zocodover (Cuesta Carlos V), Toledo, España
+P001;96.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
+P029;93.00000;Zocodover (Cuesta Carlos V), Toledo, España;39.858830;-4.021161
 P056;85.00000;Cardenal Tavera (La Vega), Toledo, España;39.863705;-4.024703
 P055;84.00000;M. Mendigorria (colegio), Toledo, España;39.865829;-4.023410
 P054;83.00000;M. Mendigorria (Electricistas), Toledo, España;39.868091;-4.022116

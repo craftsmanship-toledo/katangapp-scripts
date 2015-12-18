@@ -1,5 +1,5 @@
-P001;1.00000;Corralillo de San Miguel, Toledo, España
-P104;7.00000;Zocodover (Plaza), Toledo, España
+P001;1.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
+P104;7.00000;Zocodover (Plaza), Toledo, España;39.859407;-4.021036
 P032;18.00000;Cardenal Tavera (La Vega), Toledo, España;39.863504;-4.024522
 P033;21.00000;M. Mendigorria (Cines), Toledo, España;39.866516;-4.022734
 P107;28.00000;Ronda San Anton (Bomberos), Toledo, España
@@ -8,8 +8,8 @@ P109;45.00000;Estacion de Autobuses (Ida), Toledo, España;39.865541;-4.020265
 P110;59.00000;Paseo de la Rosa (Fte Renfe), Toledo, España;39.861982;-4.012230
 P111;64.00000;Paseo de la Rosa (Bar Telon), Toledo, España;39.861566;-4.009281
 P112;70.00000;Plaza de Santa Barbara, Toledo, España;39.860038;-4.005791
-P001;181.00000;Corralillo de San Miguel, Toledo, España
-P029;176.00000;Zocodover (Cuesta Carlos V), Toledo, España
+P001;181.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
+P029;176.00000;Zocodover (Cuesta Carlos V), Toledo, España;39.858830;-4.021161
 P056;165.00000;Cardenal Tavera (La Vega), Toledo, España;39.863705;-4.024703
 P055;162.00000;M. Mendigorria (colegio), Toledo, España;39.865829;-4.023410
 P054;159.00000;M. Mendigorria (Electricistas), Toledo, España;39.868091;-4.022116

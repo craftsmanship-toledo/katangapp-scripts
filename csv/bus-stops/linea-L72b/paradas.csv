@@ -1,4 +1,4 @@
-P001;1.00000;Corralillo de San Miguel, Toledo, España
+P001;1.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
 P002;4.00000;Alferez Provisional, 1, Toledo, España
 P003;14.00000;Alfonso VI (Fuente), Toledo, España;39.862777;-4.025937
 P271;18.00000;Avda La Cava (Rtda Alfonso VI), Toledo, España
@@ -7,9 +7,9 @@ P273;30.00000;Ctra Navalpino (Olivilla), Toledo, España
 P274;35.00000;Ctra Navalpino (Camping), Toledo, España
 P356;40.00000;Olivar, Toledo, España
 P351;71.00000;Montesion, Toledo, España
-P001;135.00000;Corralillo de San Miguel, Toledo, España
-P029;132.00000;Zocodover (Cuesta Carlos V), Toledo, España
-P028;126.00000;Puerta Bisagra Interior, Toledo, España
+P001;135.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
+P029;132.00000;Zocodover (Cuesta Carlos V), Toledo, España;39.858830;-4.021161
+P028;126.00000;Puerta Bisagra Interior, Toledo, España;39.862120;-4.025389
 P289;121.00000;Avda La Cava (Rtda. Alfonso VI), Toledo, España
 P275;109.00000;Ctra Navalpino (Olivilla), Toledo, España
 P341;105.00000;Ctra Navalpino (Fte Camping), Toledo, España

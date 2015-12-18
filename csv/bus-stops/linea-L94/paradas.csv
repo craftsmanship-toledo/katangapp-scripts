@@ -1,5 +1,5 @@
-P001;1.00000;Corralillo de San Miguel, Toledo, España
-P104;6.00000;Zocodover (Plaza), Toledo, España
+P001;1.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
+P104;6.00000;Zocodover (Plaza), Toledo, España;39.859407;-4.021036
 317;15.00000;Bar El Clavel, Toledo, España;39.862583;-4.024851
 P217;18.00000;Carrera (Fte muralla), Toledo, España;39.863573;-4.022275
 P110;32.00000;Paseo de la Rosa (Fte Renfe), Toledo, España;39.861982;-4.012230
@@ -22,9 +22,9 @@ P232;101.00000;Rio Alberche (Caja Madrid), Toledo, España
 P233;102.00000;Rio Alberche (Fte Monjas), Toledo, España
 P234;103.00000;Rio Alberche (Centro Cultural), Toledo, España
 P385;107.00000;Rio Alberche (cabecera), Toledo, España
-P001;208.00000;Corralillo de San Miguel, Toledo, España
-P029;203.00000;Zocodover (Cuesta Carlos V), Toledo, España
-P028;196.00000;Puerta Bisagra Interior, Toledo, España
+P001;208.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
+P029;203.00000;Zocodover (Cuesta Carlos V), Toledo, España;39.858830;-4.021161
+P028;196.00000;Puerta Bisagra Interior, Toledo, España;39.862120;-4.025389
 P211;189.00000;Rda. de Granadal (Est. Autobuses), Toledo, España;39.863763;-4.020841
 P120;181.00000;Paseo de la Rosa (Renfe), Toledo, España;39.862322;-4.012496
 P119;178.00000;Paseo de la Rosa (Fte Bar Telon), Toledo, España;39.861839;-4.009253

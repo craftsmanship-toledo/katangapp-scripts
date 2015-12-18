@@ -1,4 +1,4 @@
-P001;1.00000;Corralillo de San Miguel, Toledo, España
+P001;1.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
 P002;4.00000;Alferez Provisional, 1, Toledo, España
 P003;13.00000;Alfonso VI (Fuente), Toledo, España;39.862777;-4.025937
 400;18.00000;AV.CARLOS 3 PARQUE, Toledo, España
@@ -11,9 +11,9 @@ P074;36.00000;Ctra. de Peraleda, Toledo, España
 P039;50.00000;Avda Francia (Sanidad), Toledo, España;39.877594;-4.031654
 P040;51.00000;Avda Francia (Ciudad Nara), Toledo, España;39.879379;-4.029904
 P320;55.00000;Frente Convento, Toledo, España
-P001;107.00000;Corralillo de San Miguel, Toledo, España
-P029;104.00000;Zocodover (Cuesta Carlos V), Toledo, España
-P028;99.00000;Puerta Bisagra Interior, Toledo, España
+P001;107.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
+P029;104.00000;Zocodover (Cuesta Carlos V), Toledo, España;39.858830;-4.021161
+P028;99.00000;Puerta Bisagra Interior, Toledo, España;39.862120;-4.025389
 P337;93.00000;Avda Carlos III (Venta de Aires), Toledo, España
 P336;92.00000;Avda Carlos III (Aparcamiento), Toledo, España
 P335;91.00000;Avda Carlos III (Aparcamiento), Toledo, España

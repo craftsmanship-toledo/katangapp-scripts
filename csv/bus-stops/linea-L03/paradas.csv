@@ -1,4 +1,4 @@
-P001;1.00000;Corralillo de San Miguel, Toledo, España
+P001;1.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
 P002;5.00000;Alferez Provisional, 1, Toledo, España
 P003;15.00000;Alfonso VI (Fuente), Toledo, España;39.862777;-4.025937
 P004;19.00000;Avda Reconquista, 6, Toledo, España;39.8641395;-4.0279529
@@ -25,9 +25,9 @@ P082;92.00000;, Toledo, España
 P082b;94.00000;Mercadona, Toledo, España
 P333;104.00000;La Legua, Toledo, España
 P358;114.00000;Rotonda  IV, Toledo, España
-P001;190.00000;Corralillo de San Miguel, Toledo, España
-P029;187.00000;Zocodover (Cuesta Carlos V), Toledo, España
-P028;182.00000;Puerta Bisagra Interior, Toledo, España
+P001;190.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
+P029;187.00000;Zocodover (Cuesta Carlos V), Toledo, España;39.858830;-4.021161
+P028;182.00000;Puerta Bisagra Interior, Toledo, España;39.862120;-4.025389
 P027;176.00000;, Toledo, España;39.863010;-4.027696
 P026;175.00000;Avda Reconquista (Carmelitas), Toledo, España;39.865394;-4.028614
 P025;174.00000;Avda Reconquista (Nodal), Toledo, España;39.867254;-4.029313
