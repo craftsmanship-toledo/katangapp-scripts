@@ -91,8 +91,8 @@ P099;Paseo de Cabestreros, Toledo, España;;
 P100;Carr. S. Sebastian (Barco), Toledo, España;;
 P101;Carr. S. Sebastian (Iglesia), Toledo, España;;
 P104;Zocodover (Plaza), Toledo, España;39.859407;-4.021036
-P107;Ronda San Anton (Bomberos), Toledo, España;;
-P108;Avd Castilla La Mancha -Est Futbol, Toledo, España;;
+P107;Ronda San Anton (Bomberos), Toledo, España;39.869688;-4.020563
+P108;Avd Castilla La Mancha -Est Futbol, Toledo, España;39.870323;-4.016580
 P109;Estacion de Autobuses (Ida), Toledo, España;39.865541;-4.020265
 P110;Paseo de la Rosa (Fte Renfe), Toledo, España;39.861982;-4.012230
 P111;Paseo de la Rosa (Bar Telon), Toledo, España;39.861566;-4.009281
@@ -107,10 +107,10 @@ P119;Paseo de la Rosa (Fte Bar Telon), Toledo, España;39.861839;-4.009253
 P120;Paseo de la Rosa (Renfe), Toledo, España;39.862322;-4.012496
 P121;Estacion Autobuses (Vta), Toledo, España;39.865541;-4.020265
 P122;Avd Castilla la Mancha -Est Futbol, Toledo, España;;
-P128;Rio Alberche 112 (Cabecera 9), Toledo, España;;
-P129;Rio Alberche (Parque de la Luz), Toledo, España;;
-P130;Rio Alberche (Estanco), Toledo, España;;
-P131;Rio Alberche (Caja Madrid), Toledo, España;;
+P128;Rio Alberche 112 (Cabecera 9), Toledo, España;39.871550;-3.936440
+P129;Rio Alberche (Parque de la Luz), Toledo, España;39.869969;-3.939262
+P130;Rio Alberche (Estanco), Toledo, España;39.868913;-3.941901
+P131;Rio Alberche (Caja Madrid), Toledo, España;39.868006;-3.944231
 P132;, Toledo, España;;
 P133;Rio Alberche 25, Toledo, España;;
 P134;Rio Alberche 15, Toledo, España;;
@@ -212,7 +212,7 @@ P342;C/ Guadarrama Fte. Casa La Carne, Toledo, España;39.869967;-3.946899
 P343;Avda Boladiez (Fte Television), Toledo, España;39.861752;-3.956237
 P343a;SESCAM, Toledo, España;39.860301;-3.963263
 P344;Avda Boladiez (Fte. Res. Ancianos), Toledo, España;;
-P345;Rio Alberche (Biblioteca), Toledo, España;;
+P345;Rio Alberche (Biblioteca), Toledo, España;39.866662;-3.947350
 P346;Fresnedoso, 12, Toledo, España;;
 P350;La Legua II, Toledo, España;;
 P351;Montesion, Toledo, España;;
