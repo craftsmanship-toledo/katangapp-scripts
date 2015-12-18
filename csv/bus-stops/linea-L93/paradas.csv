@@ -1,7 +1,7 @@
-P128;1.00000;Rio Alberche 112 (Cabecera 9), Toledo, España
-P129;5.00000;Rio Alberche (Parque de la Luz), Toledo, España
-P130;6.00000;Rio Alberche (Estanco), Toledo, España
-P131;7.00000;Rio Alberche (Caja Madrid), Toledo, España
+P128;1.00000;Rio Alberche 112 (Cabecera 9), Toledo, España;39.871550;-3.936440
+P129;5.00000;Rio Alberche (Parque de la Luz), Toledo, España;39.869969;-3.939262
+P130;6.00000;Rio Alberche (Estanco), Toledo, España;39.868913;-3.941901
+P131;7.00000;Rio Alberche (Caja Madrid), Toledo, España;39.868006;-3.944231
 P132;8.00000;, Toledo, España
 P133;9.00000;Rio Alberche 25, Toledo, España
 P134;10.00000;Rio Alberche 15, Toledo, España
@@ -30,11 +30,11 @@ P019;117.00000;Ronda Buenavista 28 (C.Comercial), Toledo, España;39.876260;-4.0
 P020;124.00000;Zaragoza (Colegio), Toledo, España;39.875017;-4.034703
 P021;126.00000;Lisboa (Gressy), Toledo, España;39.873166;-4.034884
 P022;131.00000;Bruselas (Ambulatorio), Toledo, España;39.871706;-4.034126
-P128;264.00000;Rio Alberche 112 (Cabecera 9), Toledo, España
+P128;264.00000;Rio Alberche 112 (Cabecera 9), Toledo, España;39.871550;-3.936440
 P234;258.00000;Rio Alberche (Centro Cultural), Toledo, España
 P233;257.00000;Rio Alberche (Fte Monjas), Toledo, España
 P232;256.00000;Rio Alberche (Caja Madrid), Toledo, España
-P345;255.00000;Rio Alberche (Biblioteca), Toledo, España
+P345;255.00000;Rio Alberche (Biblioteca), Toledo, España;39.866662;-3.947350
 P225;253.00000;Rio Alberche (Edificio Correos), Toledo, España
 P224;251.00000;Rio Alberche 26, Toledo, España
 P223;248.00000;Rio Alberche 6, Toledo, España
@@ -51,8 +51,8 @@ P112;192.00000;Plaza de Santa Barbara, Toledo, España;39.860038;-4.005791
 P111;187.00000;Paseo de la Rosa (Bar Telon), Toledo, España;39.861566;-4.009281
 P110;183.00000;Paseo de la Rosa (Fte Renfe), Toledo, España;39.861982;-4.012230
 P109;169.00000;Estacion de Autobuses (Ida), Toledo, España;39.865541;-4.020265
-P108;162.00000;Avd Castilla La Mancha -Est Futbol, Toledo, España
-P107;153.00000;Ronda San Anton (Bomberos), Toledo, España
+P108;162.00000;Avd Castilla La Mancha -Est Futbol, Toledo, España;39.870323;-4.016580
+P107;153.00000;Ronda San Anton (Bomberos), Toledo, España;39.869688;-4.020563
 P053;149.00000;General Villalba 24, Toledo, España;39.868773;-4.022034
 P052;147.00000;General Villalba, 6, Toledo, España;39.868513;-4.024700
 P165;145.00000;General Villalba (Escuela), Toledo, España;39.867877;-4.026436

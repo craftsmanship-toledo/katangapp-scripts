@@ -12,11 +12,11 @@ P372;88.00000;Tras Consejeria Industria, Toledo, España
 P223;91.00000;Rio Alberche 6, Toledo, España
 P224;92.00000;Rio Alberche 26, Toledo, España
 P225;94.00000;Rio Alberche (Edificio Correos), Toledo, España
-P345;95.00000;Rio Alberche (Biblioteca), Toledo, España
+P345;95.00000;Rio Alberche (Biblioteca), Toledo, España;39.866662;-3.947350
 P232;96.00000;Rio Alberche (Caja Madrid), Toledo, España
 P233;97.00000;Rio Alberche (Fte Monjas), Toledo, España
 P234;98.00000;Rio Alberche (Centro Cultural), Toledo, España
-P128;104.00000;Rio Alberche 112 (Cabecera 9), Toledo, España
+P128;104.00000;Rio Alberche 112 (Cabecera 9), Toledo, España;39.871550;-3.936440
 P001;205.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
 P029;199.00000;Zocodover (Cuesta Carlos V), Toledo, España;39.858830;-4.021161
 P028;190.00000;Puerta Bisagra Interior, Toledo, España;39.862120;-4.025389
@@ -32,6 +32,6 @@ P135;122.00000;Rio Alberche 1, Toledo, España
 P134;121.00000;Rio Alberche 15, Toledo, España
 P133;120.00000;Rio Alberche 25, Toledo, España
 P132;116.00000;, Toledo, España
-P131;113.00000;Rio Alberche (Caja Madrid), Toledo, España
-P130;111.00000;Rio Alberche (Estanco), Toledo, España
-P129;109.00000;Rio Alberche (Parque de la Luz), Toledo, España
+P131;113.00000;Rio Alberche (Caja Madrid), Toledo, España;39.868006;-3.944231
+P130;111.00000;Rio Alberche (Estanco), Toledo, España;39.868913;-3.941901
+P129;109.00000;Rio Alberche (Parque de la Luz), Toledo, España;39.869969;-3.939262
