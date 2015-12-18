@@ -7,7 +7,7 @@
 321b;Centro Comercial Eroski, Toledo, España;;
 323b;SESCAM, Toledo, España;;
 400;AV.CARLOS 3 PARQUE, Toledo, España;;
-P001;Corralillo de San Miguel, Toledo, España;;
+P001;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
 P002;Alferez Provisional, 1, Toledo, España;;
 P003;Alfonso VI (Fuente), Toledo, España;39.862777;-4.025937
 P004;Avda Reconquista, 6, Toledo, España;39.8641395;-4.0279529
@@ -34,8 +34,8 @@ P024;Division Azul (colegio), Toledo, España;39.869061;-4.029507
 P025;Avda Reconquista (Nodal), Toledo, España;39.867254;-4.029313
 P026;Avda Reconquista (Carmelitas), Toledo, España;39.865394;-4.028614
 P027;, Toledo, España;39.863010;-4.027696
-P028;Puerta Bisagra Interior, Toledo, España;;
-P029;Zocodover (Cuesta Carlos V), Toledo, España;;
+P028;Puerta Bisagra Interior, Toledo, España;39.862120;-4.025389
+P029;Zocodover (Cuesta Carlos V), Toledo, España;39.858830;-4.021161
 P032;Cardenal Tavera (La Vega), Toledo, España;39.863504;-4.024522
 P033;M. Mendigorria (Cines), Toledo, España;39.866516;-4.022734
 P034;General Villalba 19, Toledo, España;39.868948;-4.022040
@@ -90,7 +90,7 @@ P098;Cervantes, Toledo, España;;
 P099;Paseo de Cabestreros, Toledo, España;;
 P100;Carr. S. Sebastian (Barco), Toledo, España;;
 P101;Carr. S. Sebastian (Iglesia), Toledo, España;;
-P104;Zocodover (Plaza), Toledo, España;;
+P104;Zocodover (Plaza), Toledo, España;39.859407;-4.021036
 P107;Ronda San Anton (Bomberos), Toledo, España;;
 P108;Avd Castilla La Mancha -Est Futbol, Toledo, España;;
 P109;Estacion de Autobuses (Ida), Toledo, España;39.865541;-4.020265
@@ -193,8 +193,8 @@ P320;Frente Convento, Toledo, España;;
 P322;Avda Boladiez (Res. Ancianos), Toledo, España;;
 P323;Avda Boladiez (Television), Toledo, España;;
 P324;Via Tarpeya (Rotonda), Toledo, España;;
-P326;Cabrahigos, 9 (Fte tercera Edad), Toledo, España;;
-P327;CabraHigos (Colegio Angel Alcazar), Toledo, España;;
+P326;Cabrahigos, 9 (Fte tercera Edad), Toledo, España;39.860832;-4.010707
+P327;CabraHigos (Colegio Angel Alcazar), Toledo, España;39.859477;-4.008764
 P329;Avda Irlanda, Farmacia, Toledo, España;;
 P330;Ctra Avila (Rtda Fte El Chuletero), Toledo, España;39.879413;-4.047279
 P331;Hospital Tres Culturas, Toledo, España;39.884179;-4.041106
