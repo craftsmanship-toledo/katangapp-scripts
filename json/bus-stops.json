@@ -41,6 +41,7 @@
 	{ "id": "P056", "address": "Cardenal Tavera (La Vega), Toledo, España", "lat": "39.863705", "long": "-4.024703" },
 	{ "id": "P089", "address": "Avda Barber (Chano), Toledo, España", "lat": "39.871827", "long": "-4.037803" },
 	{ "id": "P090", "address": "Avda Barber - Ambulatorio, Toledo, España", "lat": "39.870301", "long": "-4.034035" },
+	{ "id": "P109", "address": "Estacion de Autobuses (Ida), Toledo, España", "lat": "39.865541", "long": "-4.020265" },
 	{ "id": "P110", "address": "Paseo de la Rosa (Fte Renfe), Toledo, España", "lat": "39.861982", "long": "-4.012230" },
 	{ "id": "P111", "address": "Paseo de la Rosa (Bar Telon), Toledo, España", "lat": "39.861566", "long": "-4.009281" },
 	{ "id": "P112", "address": "Plaza de Santa Barbara, Toledo, España", "lat": "39.860038", "long": "-4.005791" },
