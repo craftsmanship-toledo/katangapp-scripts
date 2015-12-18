@@ -17,7 +17,7 @@ P117;58.00000;Paseo de la Rosa (Estrella), Toledo, España;39.861941;-4.001968
 P118;60.00000;Paseo de la Rosa 15, Toledo, España;39.862095;-4.005556
 P119;61.00000;Paseo de la Rosa (Fte Bar Telon), Toledo, España;39.861839;-4.009253
 P120;64.00000;Paseo de la Rosa (Renfe), Toledo, España;39.862322;-4.012496
-P121;71.00000;Estacion Autobuses (Vta), Toledo, España
+P121;71.00000;Estacion Autobuses (Vta), Toledo, España;39.865541;-4.020265
 P122;94.00000;Avd Castilla la Mancha -Est Futbol, Toledo, España
 P034;100.00000;General Villalba 19, Toledo, España;39.868948;-4.022040
 P153;102.00000;General Villalba 3, Toledo, España;39.868682;-4.024785
@@ -53,8 +53,8 @@ P110;183.00000;Paseo de la Rosa (Fte Renfe), Toledo, España;39.861982;-4.012230
 P109;169.00000;Estacion de Autobuses (Ida), Toledo, España
 P108;162.00000;Avd Castilla La Mancha -Est Futbol, Toledo, España
 P107;153.00000;Ronda San Anton (Bomberos), Toledo, España
-P053;149.00000;General Villalba 24, Toledo, España
-P052;147.00000;General Villalba, 6, Toledo, España
-P165;145.00000;General Villalba (Escuela), Toledo, España
+P053;149.00000;General Villalba 24, Toledo, España;39.868773;-4.022034
+P052;147.00000;General Villalba, 6, Toledo, España;39.868513;-4.024700
+P165;145.00000;General Villalba (Escuela), Toledo, España;39.867877;-4.026436
 P024;136.00000;Division Azul (colegio), Toledo, España;39.869061;-4.029507
 P023;134.00000;, Toledo, España;39.870534;-4.031571

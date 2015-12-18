@@ -1,7 +1,7 @@
 P001;1.00000;Corralillo de San Miguel, Toledo, España
 P002;5.00000;Alferez Provisional, 1, Toledo, España
-P032;17.00000;Cardenal Tavera (La Vega), Toledo, España
-P033;21.00000;M. Mendigorria (Cines), Toledo, España
+P032;17.00000;Cardenal Tavera (La Vega), Toledo, España;39.863504;-4.024522
+P033;21.00000;M. Mendigorria (Cines), Toledo, España;39.866516;-4.022734
 P107;27.00000;Ronda San Anton (Bomberos), Toledo, España
 P108;35.00000;Avd Castilla La Mancha -Est Futbol, Toledo, España
 P308;56.00000;, Toledo, España
@@ -13,9 +13,9 @@ P311c;88.00000;C/ Huerta, Toledo, España
 P312;95.00000;Azucaica (Plaza), Toledo, España
 P001;173.00000;Corralillo de San Miguel, Toledo, España
 P029;168.00000;Zocodover (Cuesta Carlos V), Toledo, España
-P056;156.00000;Cardenal Tavera (La Vega), Toledo, España
-P055;153.00000;M. Mendigorria (colegio), Toledo, España
-P054;150.00000;M. Mendigorria (Electricistas), Toledo, España
+P056;156.00000;Cardenal Tavera (La Vega), Toledo, España;39.863705;-4.024703
+P055;153.00000;M. Mendigorria (colegio), Toledo, España;39.865829;-4.023410
+P054;150.00000;M. Mendigorria (Electricistas), Toledo, España;39.868091;-4.022116
 P122;142.00000;Avd Castilla la Mancha -Est Futbol, Toledo, España
 P444;126.00000;, Toledo, España
 P313;112.00000;, Toledo, España

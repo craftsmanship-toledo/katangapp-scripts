@@ -1,22 +1,22 @@
 P109;1.00000;Estacion de Autobuses (Ida), Toledo, España
 P211;4.00000;Rda. de Granadal (Est. Autobuses), Toledo, España;39.863763;-4.020841
-P032;10.00000;Cardenal Tavera (La Vega), Toledo, España
-P033;13.00000;M. Mendigorria (Cines), Toledo, España
+P032;10.00000;Cardenal Tavera (La Vega), Toledo, España;39.863504;-4.024522
+P033;13.00000;M. Mendigorria (Cines), Toledo, España;39.866516;-4.022734
 P034;20.00000;General Villalba 19, Toledo, España;39.868948;-4.022040
 P153;23.00000;General Villalba 3, Toledo, España;39.868682;-4.024785
-P361;25.00000;General Villalba - pabellones, Toledo, España
+P361;25.00000;General Villalba - pabellones, Toledo, España;39.867862;-4.027081
 P090;34.00000;Avda Barber - Ambulatorio, Toledo, España;39.870301;-4.034035
-P089;35.00000;Avda Barber (Chano), Toledo, España
-P330;44.00000;Ctra Avila (Rtda Fte El Chuletero), Toledo, España
-P331;57.00000;Hospital Tres Culturas, Toledo, España
-P121;126.00000;Estacion Autobuses (Vta), Toledo, España
+P089;35.00000;Avda Barber (Chano), Toledo, España;39.871827;-4.037803
+P330;44.00000;Ctra Avila (Rtda Fte El Chuletero), Toledo, España;39.879413;-4.047279
+P331;57.00000;Hospital Tres Culturas, Toledo, España;39.884179;-4.041106
+P121;126.00000;Estacion Autobuses (Vta), Toledo, España;39.865541;-4.020265
 P217;118.00000;Carrera (Fte muralla), Toledo, España;39.863573;-4.022275
-P056;112.00000;Cardenal Tavera (La Vega), Toledo, España
-P055;111.00000;M. Mendigorria (colegio), Toledo, España
-P054;108.00000;M. Mendigorria (Electricistas), Toledo, España
-P053;105.00000;General Villalba 24, Toledo, España
-P052;102.00000;General Villalba, 6, Toledo, España
-P165;100.00000;General Villalba (Escuela), Toledo, España
+P056;112.00000;Cardenal Tavera (La Vega), Toledo, España;39.863705;-4.024703
+P055;111.00000;M. Mendigorria (colegio), Toledo, España;39.865829;-4.023410
+P054;108.00000;M. Mendigorria (Electricistas), Toledo, España;39.868091;-4.022116
+P053;105.00000;General Villalba 24, Toledo, España;39.868773;-4.022034
+P052;102.00000;General Villalba, 6, Toledo, España;39.868513;-4.024700
+P165;100.00000;General Villalba (Escuela), Toledo, España;39.867877;-4.026436
 P024;93.00000;Division Azul (colegio), Toledo, España;39.869061;-4.029507
 P023;89.00000;, Toledo, España;39.870534;-4.031571
 P022;86.00000;Bruselas (Ambulatorio), Toledo, España;39.871706;-4.034126

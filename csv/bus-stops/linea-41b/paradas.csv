@@ -1,7 +1,7 @@
 P001;1.00000;Corralillo de San Miguel, Toledo, España
 P002;4.00000;Alferez Provisional, 1, Toledo, España
-P032;12.00000;Cardenal Tavera (La Vega), Toledo, España
-P033;13.00000;M. Mendigorria (Cines), Toledo, España
+P032;12.00000;Cardenal Tavera (La Vega), Toledo, España;39.863504;-4.024522
+P033;13.00000;M. Mendigorria (Cines), Toledo, España;39.866516;-4.022734
 P034;16.00000;General Villalba 19, Toledo, España;39.868948;-4.022040
 P153;17.00000;General Villalba 3, Toledo, España;39.868682;-4.024785
 P035;19.00000;Avda Europa (I. San Julian), Toledo, España
@@ -21,11 +21,11 @@ P329;64.00000;Avda Irlanda, Farmacia, Toledo, España
 P359;71.00000;Convento, Toledo, España;39.881565;-4.027802
 P001;111.00000;Corralillo de San Miguel, Toledo, España
 P029;108.00000;Zocodover (Cuesta Carlos V), Toledo, España
-P056;100.00000;Cardenal Tavera (La Vega), Toledo, España
-P055;99.00000;M. Mendigorria (colegio), Toledo, España
-P054;98.00000;M. Mendigorria (Electricistas), Toledo, España
-P053;96.00000;General Villalba 24, Toledo, España
-P052;94.00000;General Villalba, 6, Toledo, España
+P056;100.00000;Cardenal Tavera (La Vega), Toledo, España;39.863705;-4.024703
+P055;99.00000;M. Mendigorria (colegio), Toledo, España;39.865829;-4.023410
+P054;98.00000;M. Mendigorria (Electricistas), Toledo, España;39.868091;-4.022116
+P053;96.00000;General Villalba 24, Toledo, España;39.868773;-4.022034
+P052;94.00000;General Villalba, 6, Toledo, España;39.868513;-4.024700
 P051;89.00000;Avda Europa (Fte Iglesia), Toledo, España
 P050;88.00000;Avda Europa (Tenis), Toledo, España
 P049;87.00000;Avda Europa (Parque), Toledo, España
