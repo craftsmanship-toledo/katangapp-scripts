@@ -159,11 +159,11 @@ P256;Plaza Barrio Nuevo, Toledo, España;39.856448;-4.030335
 P257;, Toledo, España;39.857588;-4.031025
 P258;, Toledo, España;39.859050;-4.031963
 P259;Paseo de Recaredo (Rotonda), Toledo, España;39.862159;-4.0276796
-P271;Avda La Cava (Rtda Alfonso VI), Toledo, España;;
-P272;Ctra Navalpino (Puente), Toledo, España;;
-P273;Ctra Navalpino (Olivilla), Toledo, España;;
-P274;Ctra Navalpino (Camping), Toledo, España;;
-P275;Ctra Navalpino (Olivilla), Toledo, España;;
+P271;Avda La Cava (Rtda Alfonso VI), Toledo, España;39.862296;-4.027872
+P272;Ctra Navalpino (Puente), Toledo, España;39.858603;-4.037639
+P273;Ctra Navalpino (Olivilla), Toledo, España;39.860072;-4.041773
+P274;Ctra Navalpino (Camping), Toledo, España;39.861640;-4.046879
+P275;Ctra Navalpino (Olivilla), Toledo, España;39.860086;-4.041298
 P276;Ctra Navalpino (Fuente), Toledo, España;;
 P277;Ctra Circunvalacion (La Rama), Toledo, España;;
 P278;Ctra Circunvalacion (Cruce), Toledo, España;;
@@ -176,7 +176,7 @@ P285;Ctra Circun. (H. Ciudad Toledo), Toledo, España;;
 P286;Ctra Circunvalacion (La Rama), Toledo, España;;
 P287;, Toledo, España;;
 P288;Ctra Navalpino (Puente Nuevo), Toledo, España;;
-P289;Avda La Cava (Rtda. Alfonso VI), Toledo, España;;
+P289;Avda La Cava (Rtda. Alfonso VI), Toledo, España;39.862450;-4.028119
 P303;Academia Infanteria, Toledo, España;;
 P304;Hospital Provincial, Toledo, España;;
 P308;, Toledo, España;;
@@ -204,10 +204,10 @@ P334;Vda Mas del Ribero - Rotonda, Toledo, España;;
 P335;Avda Carlos III (Aparcamiento), Toledo, España;;
 P336;Avda Carlos III (Aparcamiento), Toledo, España;;
 P337;Avda Carlos III (Venta de Aires), Toledo, España;;
-P338;Montesion - Rotonda, Toledo, España;;
+P338;Montesion - Rotonda, Toledo, España;39.862845;-4.058866
 P339;Airen 1, Toledo, España;;
-P340;Airen 2, Toledo, España;;
-P341;Ctra Navalpino (Fte Camping), Toledo, España;;
+P340;Airen 2, Toledo, España;39.862400;-4.052371
+P341;Ctra Navalpino (Fte Camping), Toledo, España;39.862050;-4.046817
 P342;C/ Guadarrama Fte. Casa La Carne, Toledo, España;39.869967;-3.946899
 P343;Avda Boladiez (Fte Television), Toledo, España;39.861752;-3.956237
 P343a;SESCAM, Toledo, España;39.860301;-3.963263
