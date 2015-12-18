@@ -4,8 +4,8 @@
 316;Clinica el Rosario (Vta), Toledo, España;;
 317;Bar El Clavel, Toledo, España;39.862583;-4.024851
 321;Centro Comercial Eroski, Toledo, España;39.862096;-3.972643
-321b;Centro Comercial Eroski, Toledo, España;;
-323b;SESCAM, Toledo, España;;
+321b;Centro Comercial Eroski, Toledo, España;39.862096;-3.972643
+323b;SESCAM, Toledo, España;39.860545;-3.963306
 400;AV.CARLOS 3 PARQUE, Toledo, España;;
 P001;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
 P002;Alferez Provisional, 1, Toledo, España;;
@@ -39,10 +39,10 @@ P029;Zocodover (Cuesta Carlos V), Toledo, España;39.858830;-4.021161
 P032;Cardenal Tavera (La Vega), Toledo, España;39.863504;-4.024522
 P033;M. Mendigorria (Cines), Toledo, España;39.866516;-4.022734
 P034;General Villalba 19, Toledo, España;39.868948;-4.022040
-P035;Avda Europa (I. San Julian), Toledo, España;;
-P036;Avda Europa (Iberdrola), Toledo, España;;
-P037;, Toledo, España;;
-P038;Avda Europa (Escalera CEI), Toledo, España;;
+P035;Avda Europa (I. San Julian), Toledo, España;39.869436;-4.026222
+P036;Avda Europa (Iberdrola), Toledo, España;39.871544;-4.027715
+P037;, Toledo, España;39.873872;-4.029482
+P038;Avda Europa (Escalera CEI), Toledo, España;39.876321;-4.031286
 P039;Avda Francia (Sanidad), Toledo, España;39.877594;-4.031654
 P040;Avda Francia (Ciudad Nara), Toledo, España;39.879379;-4.029904
 P041;Alemania 5, Toledo, España;;
@@ -142,9 +142,9 @@ P217;Carrera (Fte muralla), Toledo, España;39.863573;-4.022275
 P220;Paseo de la Rosa (San Marcos), Toledo, España;;
 P221;Paseo de la Rosa (Estrella), Toledo, España;;
 P222;, Toledo, España;;
-P223;Rio Alberche 6, Toledo, España;;
-P224;Rio Alberche 26, Toledo, España;;
-P225;Rio Alberche (Edificio Correos), Toledo, España;;
+P223;Rio Alberche 6, Toledo, España;39.863724;-3.955195
+P224;Rio Alberche 26, Toledo, España;39.864908;-3.951970
+P225;Rio Alberche (Edificio Correos), Toledo, España;39.865909;-3.949385
 P230;Guadarrama (Banesto), Toledo, España;39.863374;-3.943278
 P231;, Toledo, España;39.866641;-3.945042
 P232;Rio Alberche (Caja Madrid), Toledo, España;;
@@ -191,8 +191,8 @@ P312c;C/ Azucena, Toledo, España;;
 P313;, Toledo, España;;
 P320;Frente Convento, Toledo, España;;
 P322;Avda Boladiez (Res. Ancianos), Toledo, España;;
-P323;Avda Boladiez (Television), Toledo, España;;
-P324;Via Tarpeya (Rotonda), Toledo, España;;
+P323;Avda Boladiez (Television), Toledo, España;39.861961;-3.956369
+P324;Via Tarpeya (Rotonda), Toledo, España;39.860809;-3.968794
 P326;Cabrahigos, 9 (Fte tercera Edad), Toledo, España;39.860832;-4.010707
 P327;CabraHigos (Colegio Angel Alcazar), Toledo, España;39.859477;-4.008764
 P329;Avda Irlanda, Farmacia, Toledo, España;;
