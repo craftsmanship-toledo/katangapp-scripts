@@ -9,9 +9,9 @@ P221;51.00000;Paseo de la Rosa (Estrella), Toledo, España
 P370;80.00000;Rio Cabriel (Fte E. Hosteleria), Toledo, España
 P371;83.00000;Rio Cabriel  (Archivo), Toledo, España
 P372;88.00000;Tras Consejeria Industria, Toledo, España
-P223;91.00000;Rio Alberche 6, Toledo, España
-P224;92.00000;Rio Alberche 26, Toledo, España
-P225;94.00000;Rio Alberche (Edificio Correos), Toledo, España
+P223;91.00000;Rio Alberche 6, Toledo, España;39.863724;-3.955195
+P224;92.00000;Rio Alberche 26, Toledo, España;39.864908;-3.951970
+P225;94.00000;Rio Alberche (Edificio Correos), Toledo, España;39.865909;-3.949385
 P345;95.00000;Rio Alberche (Biblioteca), Toledo, España;39.866662;-3.947350
 P232;96.00000;Rio Alberche (Caja Madrid), Toledo, España
 P233;97.00000;Rio Alberche (Fte Monjas), Toledo, España

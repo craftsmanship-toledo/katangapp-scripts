@@ -7,10 +7,10 @@ P133;9.00000;Rio Alberche 25, Toledo, España
 P134;10.00000;Rio Alberche 15, Toledo, España
 P135;11.00000;Rio Alberche 1, Toledo, España
 P322;15.00000;Avda Boladiez (Res. Ancianos), Toledo, España
-P323;17.00000;Avda Boladiez (Television), Toledo, España
-323b;19.00000;SESCAM, Toledo, España
-321b;26.00000;Centro Comercial Eroski, Toledo, España
-P324;34.00000;Via Tarpeya (Rotonda), Toledo, España
+P323;17.00000;Avda Boladiez (Television), Toledo, España;39.861961;-3.956369
+323b;19.00000;SESCAM, Toledo, España;39.860545;-3.963306
+321b;26.00000;Centro Comercial Eroski, Toledo, España;39.862096;-3.972643
+P324;34.00000;Via Tarpeya (Rotonda), Toledo, España;39.860809;-3.968794
 P178;39.00000;Arroyomolinos (Gasolinera), Toledo, España
 P140;44.00000;Jarama (Mercado Mayoristas), Toledo, España;39.864743;-3.974569
 P117;58.00000;Paseo de la Rosa (Estrella), Toledo, España;39.861941;-4.001968
@@ -21,10 +21,10 @@ P121;71.00000;Estacion Autobuses (Vta), Toledo, España;39.865541;-4.020265
 P122;94.00000;Avd Castilla la Mancha -Est Futbol, Toledo, España
 P034;100.00000;General Villalba 19, Toledo, España;39.868948;-4.022040
 P153;102.00000;General Villalba 3, Toledo, España;39.868682;-4.024785
-P035;105.00000;Avda Europa (I. San Julian), Toledo, España
-P036;106.00000;Avda Europa (Iberdrola), Toledo, España
-P037;110.00000;, Toledo, España
-P038;111.00000;Avda Europa (Escalera CEI), Toledo, España
+P035;105.00000;Avda Europa (I. San Julian), Toledo, España;39.869436;-4.026222
+P036;106.00000;Avda Europa (Iberdrola), Toledo, España;39.871544;-4.027715
+P037;110.00000;, Toledo, España;39.873872;-4.029482
+P038;111.00000;Avda Europa (Escalera CEI), Toledo, España;39.876321;-4.031286
 P018;116.00000;Ronda Buenavista 24 (Iglesia), Toledo, España;39.877235;-4.033282
 P019;117.00000;Ronda Buenavista 28 (C.Comercial), Toledo, España;39.876260;-4.035737
 P020;124.00000;Zaragoza (Colegio), Toledo, España;39.875017;-4.034703
@@ -35,9 +35,9 @@ P234;258.00000;Rio Alberche (Centro Cultural), Toledo, España
 P233;257.00000;Rio Alberche (Fte Monjas), Toledo, España
 P232;256.00000;Rio Alberche (Caja Madrid), Toledo, España
 P345;255.00000;Rio Alberche (Biblioteca), Toledo, España;39.866662;-3.947350
-P225;253.00000;Rio Alberche (Edificio Correos), Toledo, España
-P224;251.00000;Rio Alberche 26, Toledo, España
-P223;248.00000;Rio Alberche 6, Toledo, España
+P225;253.00000;Rio Alberche (Edificio Correos), Toledo, España;39.865909;-3.949385
+P224;251.00000;Rio Alberche 26, Toledo, España;39.864908;-3.951970
+P223;248.00000;Rio Alberche 6, Toledo, España;39.863724;-3.955195
 P344;243.00000;Avda Boladiez (Fte. Res. Ancianos), Toledo, España
 P343;239.00000;Avda Boladiez (Fte Television), Toledo, España;39.861752;-3.956237
 P343a;237.00000;SESCAM, Toledo, España;39.860301;-3.963263
