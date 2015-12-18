@@ -86,5 +86,6 @@
 	{ "id": "P359", "address": "Convento, Toledo, España", "lat": "39.881565", "long": "-4.027802" },
 	{ "id": "P360", "address": "Plaza  Holanda, Toledo, España", "lat": "39.879323", "long": "-4.030383" },
 	{ "id": "P361", "address": "General Villalba - pabellones, Toledo, España", "lat": "39.867862", "long": "-4.027081" },
-	{ "id": "P390", "address": "Fresnedoso (Kiosko Pepe), Toledo, España", "lat": "39.862283", "long": "-3.947177" }
+	{ "id": "P390", "address": "Fresnedoso (Kiosko Pepe), Toledo, España", "lat": "39.862283", "long": "-3.947177" },
+	{ "id": "P445", "address": "Hotel Beatriz, Toledo, España", "lat": "39.878806", "long": "-4.040717" }
 ]}
