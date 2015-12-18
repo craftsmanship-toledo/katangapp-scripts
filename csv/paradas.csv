@@ -36,8 +36,8 @@ P026;Avda Reconquista (Carmelitas), Toledo, España;39.865394;-4.028614
 P027;, Toledo, España;39.863010;-4.027696
 P028;Puerta Bisagra Interior, Toledo, España;;
 P029;Zocodover (Cuesta Carlos V), Toledo, España;;
-P032;Cardenal Tavera (La Vega), Toledo, España;;
-P033;M. Mendigorria (Cines), Toledo, España;;
+P032;Cardenal Tavera (La Vega), Toledo, España;39.863504;-4.024522
+P033;M. Mendigorria (Cines), Toledo, España;39.866516;-4.022734
 P034;General Villalba 19, Toledo, España;39.868948;-4.022040
 P035;Avda Europa (I. San Julian), Toledo, España;;
 P036;Avda Europa (Iberdrola), Toledo, España;;
@@ -55,11 +55,11 @@ P048;Avda Europa (Altos Vellavista), Toledo, España;;
 P049;Avda Europa (Parque), Toledo, España;;
 P050;Avda Europa (Tenis), Toledo, España;;
 P051;Avda Europa (Fte Iglesia), Toledo, España;;
-P052;General Villalba, 6, Toledo, España;;
-P053;General Villalba 24, Toledo, España;;
-P054;M. Mendigorria (Electricistas), Toledo, España;;
-P055;M. Mendigorria (colegio), Toledo, España;;
-P056;Cardenal Tavera (La Vega), Toledo, España;;
+P052;General Villalba, 6, Toledo, España;39.868513;-4.024700
+P053;General Villalba 24, Toledo, España;39.868773;-4.022034
+P054;M. Mendigorria (Electricistas), Toledo, España;39.868091;-4.022116
+P055;M. Mendigorria (colegio), Toledo, España;39.865829;-4.023410
+P056;Cardenal Tavera (La Vega), Toledo, España;39.863705;-4.024703
 P058;, Toledo, España;;
 P059;Carr. S. Sebastian (Iglesia), Toledo, España;;
 P060;Carr. S. Sebastian (Bajada Barco), Toledo, España;;
@@ -84,7 +84,7 @@ P085;, Toledo, España;;
 P086;, Toledo, España;;
 P087;Clinica el Rosario, Toledo, España;;
 P088;Rotonda Avila (Gasolinera), Toledo, España;;
-P089;Avda Barber (Chano), Toledo, España;;
+P089;Avda Barber (Chano), Toledo, España;39.871827;-4.037803
 P090;Avda Barber - Ambulatorio, Toledo, España;39.870301;-4.034035
 P098;Cervantes, Toledo, España;;
 P099;Paseo de Cabestreros, Toledo, España;;
@@ -105,7 +105,7 @@ P117;Paseo de la Rosa (Estrella), Toledo, España;39.861941;-4.001968
 P118;Paseo de la Rosa 15, Toledo, España;39.862095;-4.005556
 P119;Paseo de la Rosa (Fte Bar Telon), Toledo, España;39.861839;-4.009253
 P120;Paseo de la Rosa (Renfe), Toledo, España;39.862322;-4.012496
-P121;Estacion Autobuses (Vta), Toledo, España;;
+P121;Estacion Autobuses (Vta), Toledo, España;39.865541;-4.020265
 P122;Avd Castilla la Mancha -Est Futbol, Toledo, España;;
 P128;Rio Alberche 112 (Cabecera 9), Toledo, España;;
 P129;Rio Alberche (Parque de la Luz), Toledo, España;;
@@ -124,7 +124,7 @@ P143;Avda Santa  Barbara, Toledo, España;39.859066;-4.004305
 P144;Plaza de Santa Barbara, Toledo, España;39.860186;-4.005392
 P145;Purisima Concepcion, Toledo, España;39.860829;-4.003812
 P153;General Villalba 3, Toledo, España;39.868682;-4.024785
-P165;General Villalba (Escuela), Toledo, España;;
+P165;General Villalba (Escuela), Toledo, España;39.867877;-4.026436
 P178;Arroyomolinos (Gasolinera), Toledo, España;;
 P179;Jarama (Campsa), Toledo, España;;
 P180;Jarama (Unauto), Toledo, España;;
@@ -196,9 +196,9 @@ P324;Via Tarpeya (Rotonda), Toledo, España;;
 P326;Cabrahigos, 9 (Fte tercera Edad), Toledo, España;;
 P327;CabraHigos (Colegio Angel Alcazar), Toledo, España;;
 P329;Avda Irlanda, Farmacia, Toledo, España;;
-P330;Ctra Avila (Rtda Fte El Chuletero), Toledo, España;;
-P331;Hospital Tres Culturas, Toledo, España;;
-P332;Hospital Tres Culturas (vta), Toledo, España;;
+P330;Ctra Avila (Rtda Fte El Chuletero), Toledo, España;39.879413;-4.047279
+P331;Hospital Tres Culturas, Toledo, España;39.884179;-4.041106
+P332;Hospital Tres Culturas (vta), Toledo, España;39.884179;-4.041106
 P333;La Legua, Toledo, España;;
 P334;Vda Mas del Ribero - Rotonda, Toledo, España;;
 P335;Avda Carlos III (Aparcamiento), Toledo, España;;
@@ -220,7 +220,7 @@ P356;Olivar, Toledo, España;;
 P358;Rotonda  IV, Toledo, España;;
 P359;Convento, Toledo, España;39.881565;-4.027802
 P360;Plaza  Holanda, Toledo, España;39.879323;-4.030383
-P361;General Villalba - pabellones, Toledo, España;;
+P361;General Villalba - pabellones, Toledo, España;39.867862;-4.027081
 P370;Rio Cabriel (Fte E. Hosteleria), Toledo, España;;
 P371;Rio Cabriel  (Archivo), Toledo, España;;
 P372;Tras Consejeria Industria, Toledo, España;;
