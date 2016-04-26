@@ -1,13 +1,13 @@
-P001;1.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
-P104;7.00000;Zocodover (Plaza), Toledo, España;39.859407;-4.021036
-317;15.00000;Bar El Clavel, Toledo, España;39.862583;-4.024851
-P217;18.00000;Carrera (Fte muralla), Toledo, España;39.863573;-4.022275
-P304;38.00000;Hospital Provincial, Toledo, España
-P001;71.00000;Corralillo de San Miguel, Toledo, España;39.857465;-4.019225
-P029;68.00000;Zocodover (Cuesta Carlos V), Toledo, España;39.858830;-4.021161
-P028;63.00000;Puerta Bisagra Interior, Toledo, España;39.862120;-4.025389
-P211;58.00000;Rda. de Granadal (Est. Autobuses), Toledo, España;39.863763;-4.020841
-P120;54.00000;Paseo de la Rosa (Renfe), Toledo, España;39.862322;-4.012496
-P326;52.00000;Cabrahigos, 9 (Fte tercera Edad), Toledo, España;39.860832;-4.010707
-P327;47.00000;CabraHigos (Colegio Angel Alcazar), Toledo, España;39.859477;-4.008764
-P303;41.00000;Academia Infanteria, Toledo, España
+P001;1.00000;Corralillo de San Miguel;39.858966;-4.020902
+P104;7.00000;Zocodover (Plaza);39.859407;-4.021036
+317;15.00000;Bar El Clavel;39.862583;-4.024851
+P217;18.00000;Carrera (Fte muralla);39.863573;-4.022275
+P304;38.00000;Hospital Provincial
+P001;71.00000;Corralillo de San Miguel;39.857465;-4.019225
+P029;68.00000;Zocodover (Cuesta Carlos V);39.858830;-4.021161
+P028;63.00000;Puerta Bisagra Interior;39.862120;-4.025389
+P211;58.00000;Rda. de Granadal (Est. Autobuses);39.863763;-4.020841
+P120;54.00000;Paseo de la Rosa (Renfe);39.862322;-4.012496
+P326;52.00000;Cabrahigos, 9 (Fte tercera Edad);39.860832;-4.010707
+P327;47.00000;CabraHigos (Colegio Angel Alcazar);39.859477;-4.008764
+P303;41.00000;Academia Infanteria

@@ -1,44 +1,44 @@
-P001;1.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
-P002;5.00000;Alferez Provisional, 1, Toledo, España
-P003;15.00000;Alfonso VI (Fuente), Toledo, España;39.862777;-4.025937
-P004;19.00000;Avda Reconquista, 6, Toledo, España;39.8641395;-4.0279529
-P005;20.00000;Avda Reconquista, 14, Toledo, España;39.865705;-4.028521
-P006;21.00000;Avda Reconquista, 20, Toledo, España;39.866840;-4.028954
-P165;25.00000;General Villalba (Escuela), Toledo, España;39.867877;-4.026436
-P035;29.00000;Avda Europa (I. San Julian), Toledo, España;39.869436;-4.026222
-P036;30.00000;Avda Europa (Iberdrola), Toledo, España;39.871544;-4.027715
-P037;33.00000;, Toledo, España;39.873872;-4.029482
-P038;34.00000;Avda Europa (Escalera CEI), Toledo, España;39.876321;-4.031286
-P018;39.00000;Ronda Buenavista 24 (Iglesia), Toledo, España;39.877235;-4.033282
-P019;40.00000;Ronda Buenavista 28 (C.Comercial), Toledo, España;39.876260;-4.035737
-P012;48.00000;Avda Portugal (Sta. Casilda), Toledo, España;39.874631;-4.037049
-P330;58.00000;Ctra Avila (Rtda Fte El Chuletero), Toledo, España;39.879413;-4.047279
-P075;61.00000;, Toledo, España
-P076a;69.00000;Mercadona - Rotonda, Toledo, España
-P076;76.00000;Avda del Olmo 5, Toledo, España
-P077;80.00000;Avda del Olmo 28, Toledo, España
-P078;83.00000;Avda del Olmo 86, Toledo, España
-P079;86.00000;Avda del Tilo, Toledo, España
-P080;90.00000;, Toledo, España
-P081;91.00000;, Toledo, España
-P082;92.00000;, Toledo, España
-P082b;94.00000;Mercadona, Toledo, España
-P333;104.00000;La Legua, Toledo, España
-P358;114.00000;Rotonda  IV, Toledo, España
-P001;190.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
-P029;187.00000;Zocodover (Cuesta Carlos V), Toledo, España;39.858830;-4.021161
-P028;182.00000;Puerta Bisagra Interior, Toledo, España;39.862120;-4.025389
-P027;176.00000;, Toledo, España;39.863010;-4.027696
-P026;175.00000;Avda Reconquista (Carmelitas), Toledo, España;39.865394;-4.028614
-P025;174.00000;Avda Reconquista (Nodal), Toledo, España;39.867254;-4.029313
-P361;164.00000;General Villalba - pabellones, Toledo, España;39.867862;-4.027081
-P051;162.00000;Avda Europa (Fte Iglesia), Toledo, España
-P050;161.00000;Avda Europa (Tenis), Toledo, España
-P049;160.00000;Avda Europa (Parque), Toledo, España
-P048;159.00000;Avda Europa (Altos Vellavista), Toledo, España
-296;156.00000;, Toledo, España;39.876208;-4.033600
-294;154.00000;Avda de Portugal - Ahorramas, Toledo, España;39.873673;-4.038033
-P085;147.00000;, Toledo, España
-P084;144.00000;Cigarr Vistahermosa 2, Toledo, España
-P083;139.00000;Cigarr Vistahermosa 1, Toledo, España
-P350;118.00000;La Legua II, Toledo, España
+P001;1.00000;Corralillo de San Miguel;39.858966;-4.020902
+P002;5.00000;Alferez Provisional, 1
+P003;15.00000;Alfonso VI (Fuente);39.862777;-4.025937
+P004;19.00000;Avda Reconquista, 6;39.8641395;-4.0279529
+P005;20.00000;Avda Reconquista, 14;39.865705;-4.028521
+P006;21.00000;Avda Reconquista, 20;39.866840;-4.028954
+P165;25.00000;General Villalba (Escuela);39.867877;-4.026436
+P035;29.00000;Avda Europa (I. San Julian);39.869436;-4.026222
+P036;30.00000;Avda Europa (Iberdrola);39.871544;-4.027715
+P037;33.00000;;39.873872;-4.029482
+P038;34.00000;Avda Europa (Escalera CEI);39.876321;-4.031286
+P018;39.00000;Ronda Buenavista 24 (Iglesia);39.877235;-4.033282
+P019;40.00000;Ronda Buenavista 28 (C.Comercial);39.876260;-4.035737
+P012;48.00000;Avda Portugal (Sta. Casilda);39.874631;-4.037049
+P330;58.00000;Ctra Avila (Rtda Fte El Chuletero);39.879413;-4.047279
+P075;61.00000;
+P076a;69.00000;Mercadona - Rotonda
+P076;76.00000;Avda del Olmo 5
+P077;80.00000;Avda del Olmo 28
+P078;83.00000;Avda del Olmo 86
+P079;86.00000;Avda del Tilo
+P080;90.00000;
+P081;91.00000;
+P082;92.00000;
+P082b;94.00000;Mercadona
+P333;104.00000;La Legua
+P358;114.00000;Rotonda  IV
+P001;190.00000;Corralillo de San Miguel;39.858966;-4.020902
+P029;187.00000;Zocodover (Cuesta Carlos V);39.858830;-4.021161
+P028;182.00000;Puerta Bisagra Interior;39.862120;-4.025389
+P027;176.00000;;39.863010;-4.027696
+P026;175.00000;Avda Reconquista (Carmelitas);39.865394;-4.028614
+P025;174.00000;Avda Reconquista (Nodal);39.867254;-4.029313
+P361;164.00000;General Villalba - pabellones;39.867862;-4.027081
+P051;162.00000;Avda Europa (Fte Iglesia)
+P050;161.00000;Avda Europa (Tenis)
+P049;160.00000;Avda Europa (Parque)
+P048;159.00000;Avda Europa (Altos Vellavista)
+296;156.00000;;39.876208;-4.033600
+294;154.00000;Avda de Portugal - Ahorramas;39.873673;-4.038033
+P085;147.00000;
+P084;144.00000;Cigarr Vistahermosa 2
+P083;139.00000;Cigarr Vistahermosa 1
+P350;118.00000;La Legua II

@@ -1,23 +1,23 @@
-P001;1.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
-P002;5.00000;Alferez Provisional, 1, Toledo, España
-P032;17.00000;Cardenal Tavera (La Vega), Toledo, España;39.863504;-4.024522
-P033;21.00000;M. Mendigorria (Cines), Toledo, España;39.866516;-4.022734
-P107;27.00000;Ronda San Anton (Bomberos), Toledo, España;39.869688;-4.020563
-P108;35.00000;Avd Castilla La Mancha -Est Futbol, Toledo, España;39.870323;-4.016580
-P308;56.00000;, Toledo, España;39.873543;-4.006711
-P309;68.00000;, Toledo, España;39.878628;-3.987053
-P310;72.00000;, Toledo, España;39.879607;-3.983639
-P311;79.00000;, Toledo, España;39.884492;-3.974548
-P311b;86.00000;C/ Huerta, Toledo, España
-P311c;88.00000;C/ Huerta, Toledo, España
-P312;95.00000;Azucaica (Plaza), Toledo, España
-P001;173.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
-P029;168.00000;Zocodover (Cuesta Carlos V), Toledo, España;39.858830;-4.021161
-P056;156.00000;Cardenal Tavera (La Vega), Toledo, España;39.863705;-4.024703
-P055;153.00000;M. Mendigorria (colegio), Toledo, España;39.865829;-4.023410
-P054;150.00000;M. Mendigorria (Electricistas), Toledo, España;39.868091;-4.022116
-P122;142.00000;Avd Castilla la Mancha -Est Futbol, Toledo, España
-P444;126.00000;, Toledo, España
-P313;112.00000;, Toledo, España
-P312c;99.00000;C/ Azucena, Toledo, España
-P312b;98.00000;C/ Azucena, Toledo, España
+P001;1.00000;Corralillo de San Miguel;39.858966;-4.020902
+P002;5.00000;Alferez Provisional, 1
+P032;17.00000;Cardenal Tavera (La Vega);39.863504;-4.024522
+P033;21.00000;M. Mendigorria (Cines);39.866516;-4.022734
+P107;27.00000;Ronda San Anton (Bomberos);39.869688;-4.020563
+P108;35.00000;Avd Castilla La Mancha -Est Futbol;39.870323;-4.016580
+P308;56.00000;;39.873543;-4.006711
+P309;68.00000;;39.878628;-3.987053
+P310;72.00000;;39.879607;-3.983639
+P311;79.00000;;39.884492;-3.974548
+P311b;86.00000;C/ Huerta
+P311c;88.00000;C/ Huerta
+P312;95.00000;Azucaica (Plaza)
+P001;173.00000;Corralillo de San Miguel;39.858966;-4.020902
+P029;168.00000;Zocodover (Cuesta Carlos V);39.858830;-4.021161
+P056;156.00000;Cardenal Tavera (La Vega);39.863705;-4.024703
+P055;153.00000;M. Mendigorria (colegio);39.865829;-4.023410
+P054;150.00000;M. Mendigorria (Electricistas);39.868091;-4.022116
+P122;142.00000;Avd Castilla la Mancha -Est Futbol
+P444;126.00000;
+P313;112.00000;
+P312c;99.00000;C/ Azucena
+P312b;98.00000;C/ Azucena

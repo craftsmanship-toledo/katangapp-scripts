@@ -1,31 +1,31 @@
-P058;1.00000;, Toledo, España
-P059;3.00000;Carr. S. Sebastian (Iglesia), Toledo, España
-P060;10.00000;Carr. S. Sebastian (Bajada Barco), Toledo, España
-P061;18.00000;Paseo de Cabestreros, Toledo, España
-P062;25.00000;Cervantes, Toledo, España
-P104;38.00000;Zocodover (Plaza), Toledo, España;39.859407;-4.021036
-317;45.00000;Bar El Clavel, Toledo, España;39.862583;-4.024851
-P217;49.00000;Carrera (Fte muralla), Toledo, España;39.863573;-4.022275
-P121;59.00000;Estacion Autobuses (Vta), Toledo, España;39.865541;-4.020265
-P211;63.00000;Rda. de Granadal (Est. Autobuses), Toledo, España;39.863763;-4.020841
-P003;70.00000;Alfonso VI (Fuente), Toledo, España;39.862777;-4.025937
-P251;79.00000;, Toledo, España;39.859412;-4.032533
-P252;86.00000;Puente San Martin, Toledo, España;39.857715;-4.033573
-P253;99.00000;Reyes Catolicos, Toledo, España;39.857588;-4.031025
-P254;102.00000;, Toledo, España;39.856448;-4.030335
-P255;111.00000;Pza del Conde (Palacio Fuensalida), Toledo, España;39.856182;-4.028232
-P058;200.00000;, Toledo, España
-P101;196.00000;Carr. S. Sebastian (Iglesia), Toledo, España
-P100;188.00000;Carr. S. Sebastian (Barco), Toledo, España
-P099;181.00000;Paseo de Cabestreros, Toledo, España
-P098;174.00000;Cervantes, Toledo, España
-P001;171.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
-P029;166.00000;Zocodover (Cuesta Carlos V), Toledo, España;39.858830;-4.021161
-P028;159.00000;Puerta Bisagra Interior, Toledo, España;39.862120;-4.025389
-P211;153.00000;Rda. de Granadal (Est. Autobuses), Toledo, España;39.863763;-4.020841
-P109;147.00000;Estacion de Autobuses (Ida), Toledo, España;39.865541;-4.020265
-P217;139.00000;Carrera (Fte muralla), Toledo, España;39.863573;-4.022275
-P259;132.00000;Paseo de Recaredo (Rotonda), Toledo, España;39.862159;-4.0276796
-P258;127.00000;, Toledo, España;39.859050;-4.031963
-P257;121.00000;, Toledo, España;39.857588;-4.031025
-P256;119.00000;Plaza Barrio Nuevo, Toledo, España;39.856448;-4.030335
+P058;1.00000;
+P059;3.00000;Carr. S. Sebastian (Iglesia)
+P060;10.00000;Carr. S. Sebastian (Bajada Barco)
+P061;18.00000;Paseo de Cabestreros
+P062;25.00000;Cervantes
+P104;38.00000;Zocodover (Plaza);39.859407;-4.021036
+317;45.00000;Bar El Clavel;39.862583;-4.024851
+P217;49.00000;Carrera (Fte muralla);39.863573;-4.022275
+P121;59.00000;Estacion Autobuses (Vta);39.865541;-4.020265
+P211;63.00000;Rda. de Granadal (Est. Autobuses);39.863763;-4.020841
+P003;70.00000;Alfonso VI (Fuente);39.862777;-4.025937
+P251;79.00000;;39.859412;-4.032533
+P252;86.00000;Puente San Martin;39.857715;-4.033573
+P253;99.00000;Reyes Catolicos;39.857588;-4.031025
+P254;102.00000;;39.856448;-4.030335
+P255;111.00000;Pza del Conde (Palacio Fuensalida);39.856182;-4.028232
+P058;200.00000;
+P101;196.00000;Carr. S. Sebastian (Iglesia)
+P100;188.00000;Carr. S. Sebastian (Barco)
+P099;181.00000;Paseo de Cabestreros
+P098;174.00000;Cervantes
+P001;171.00000;Corralillo de San Miguel;39.858966;-4.020902
+P029;166.00000;Zocodover (Cuesta Carlos V);39.858830;-4.021161
+P028;159.00000;Puerta Bisagra Interior;39.862120;-4.025389
+P211;153.00000;Rda. de Granadal (Est. Autobuses);39.863763;-4.020841
+P109;147.00000;Estacion de Autobuses (Ida);39.865541;-4.020265
+P217;139.00000;Carrera (Fte muralla);39.863573;-4.022275
+P259;132.00000;Paseo de Recaredo (Rotonda);39.862159;-4.0276796
+P258;127.00000;;39.859050;-4.031963
+P257;121.00000;;39.857588;-4.031025
+P256;119.00000;Plaza Barrio Nuevo;39.856448;-4.030335

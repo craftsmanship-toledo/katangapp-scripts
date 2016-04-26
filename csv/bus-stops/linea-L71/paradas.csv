@@ -1,20 +1,20 @@
-P001;1.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
-P002;5.00000;Alferez Provisional, 1, Toledo, España
-P003;18.00000;Alfonso VI (Fuente), Toledo, España;39.862777;-4.025937
-P271;23.00000;Avda La Cava (Rtda Alfonso VI), Toledo, España;39.862296;-4.027872
-P276;32.00000;Ctra Navalpino (Fuente), Toledo, España
-P277;45.00000;Ctra Circunvalacion (La Rama), Toledo, España
-P278;57.00000;Ctra Circunvalacion (Cruce), Toledo, España
-P279;60.00000;Ctra Circunvalacion (H.Cigarrales), Toledo, España
-P280;71.00000;, Toledo, España
-P281;81.00000;Ctra Circunvalacion (Hosp. Valle), Toledo, España
-P001;186.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
-P029;181.00000;Zocodover (Cuesta Carlos V), Toledo, España;39.858830;-4.021161
-P028;170.00000;Puerta Bisagra Interior, Toledo, España;39.862120;-4.025389
-P289;163.00000;Avda La Cava (Rtda. Alfonso VI), Toledo, España;39.862450;-4.028119
-P288;150.00000;Ctra Navalpino (Puente Nuevo), Toledo, España
-P287;147.00000;, Toledo, España
-P286;136.00000;Ctra Circunvalacion (La Rama), Toledo, España
-P285;127.00000;Ctra Circun. (H. Ciudad Toledo), Toledo, España
-P284;121.00000;Ctra Circunvalacion (H.Cigarrales), Toledo, España
-P283;101.00000;Ctra Circunvalacion (Mirador), Toledo, España
+P001;1.00000;Corralillo de San Miguel;39.858966;-4.020902
+P002;5.00000;Alferez Provisional, 1
+P003;18.00000;Alfonso VI (Fuente);39.862777;-4.025937
+P271;23.00000;Avda La Cava (Rtda Alfonso VI);39.862296;-4.027872
+P276;32.00000;Ctra Navalpino (Fuente)
+P277;45.00000;Ctra Circunvalacion (La Rama)
+P278;57.00000;Ctra Circunvalacion (Cruce)
+P279;60.00000;Ctra Circunvalacion (H.Cigarrales)
+P280;71.00000;
+P281;81.00000;Ctra Circunvalacion (Hosp. Valle)
+P001;186.00000;Corralillo de San Miguel;39.858966;-4.020902
+P029;181.00000;Zocodover (Cuesta Carlos V);39.858830;-4.021161
+P028;170.00000;Puerta Bisagra Interior;39.862120;-4.025389
+P289;163.00000;Avda La Cava (Rtda. Alfonso VI);39.862450;-4.028119
+P288;150.00000;Ctra Navalpino (Puente Nuevo)
+P287;147.00000;
+P286;136.00000;Ctra Circunvalacion (La Rama)
+P285;127.00000;Ctra Circun. (H. Ciudad Toledo)
+P284;121.00000;Ctra Circunvalacion (H.Cigarrales)
+P283;101.00000;Ctra Circunvalacion (Mirador)

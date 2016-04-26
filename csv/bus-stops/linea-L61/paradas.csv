@@ -1,37 +1,37 @@
-P001;1.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
-P104;7.00000;Zocodover (Plaza), Toledo, España;39.859407;-4.021036
-317;19.00000;Bar El Clavel, Toledo, España;39.862583;-4.024851
-P217;24.00000;Carrera (Fte muralla), Toledo, España;39.863573;-4.022275
-P110;41.00000;Paseo de la Rosa (Fte Renfe), Toledo, España;39.861982;-4.012230
-P111;44.00000;Paseo de la Rosa (Bar Telon), Toledo, España;39.861566;-4.009281
-P220;46.00000;Paseo de la Rosa (San Marcos), Toledo, España
-P221;51.00000;Paseo de la Rosa (Estrella), Toledo, España
-P370;80.00000;Rio Cabriel (Fte E. Hosteleria), Toledo, España
-P371;83.00000;Rio Cabriel  (Archivo), Toledo, España
-P372;88.00000;Tras Consejeria Industria, Toledo, España
-P223;91.00000;Rio Alberche 6, Toledo, España;39.863724;-3.955195
-P224;92.00000;Rio Alberche 26, Toledo, España;39.864908;-3.951970
-P225;94.00000;Rio Alberche (Edificio Correos), Toledo, España;39.865909;-3.949385
-P345;95.00000;Rio Alberche (Biblioteca), Toledo, España;39.866662;-3.947350
-P232;96.00000;Rio Alberche (Caja Madrid), Toledo, España
-P233;97.00000;Rio Alberche (Fte Monjas), Toledo, España
-P234;98.00000;Rio Alberche (Centro Cultural), Toledo, España
-P128;104.00000;Rio Alberche 112 (Cabecera 9), Toledo, España;39.871550;-3.936440
-P001;205.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
-P029;199.00000;Zocodover (Cuesta Carlos V), Toledo, España;39.858830;-4.021161
-P028;190.00000;Puerta Bisagra Interior, Toledo, España;39.862120;-4.025389
-P211;183.00000;Rda. de Granadal (Est. Autobuses), Toledo, España;39.863763;-4.020841
-P120;173.00000;Paseo de la Rosa (Renfe), Toledo, España;39.862322;-4.012496
-P119;169.00000;Paseo de la Rosa (Fte Bar Telon), Toledo, España;39.861839;-4.009253
-P118;168.00000;Paseo de la Rosa 15, Toledo, España;39.862095;-4.005556
-P117;165.00000;Paseo de la Rosa (Estrella), Toledo, España;39.861941;-4.001968
-P375;132.00000;Rio Cabriel (Fte E. Hosteleria), Toledo, España
-P374;130.00000;Rio Cabriel (Archivo), Toledo, España
-P373;126.00000;Tras Consejeria Industria, Toledo, España
-P135;122.00000;Rio Alberche 1, Toledo, España
-P134;121.00000;Rio Alberche 15, Toledo, España
-P133;120.00000;Rio Alberche 25, Toledo, España
-P132;116.00000;, Toledo, España
-P131;113.00000;Rio Alberche (Caja Madrid), Toledo, España;39.868006;-3.944231
-P130;111.00000;Rio Alberche (Estanco), Toledo, España;39.868913;-3.941901
-P129;109.00000;Rio Alberche (Parque de la Luz), Toledo, España;39.869969;-3.939262
+P001;1.00000;Corralillo de San Miguel;39.858966;-4.020902
+P104;7.00000;Zocodover (Plaza);39.859407;-4.021036
+317;19.00000;Bar El Clavel;39.862583;-4.024851
+P217;24.00000;Carrera (Fte muralla);39.863573;-4.022275
+P110;41.00000;Paseo de la Rosa (Fte Renfe);39.861982;-4.012230
+P111;44.00000;Paseo de la Rosa (Bar Telon);39.861566;-4.009281
+P220;46.00000;Paseo de la Rosa (San Marcos)
+P221;51.00000;Paseo de la Rosa (Estrella)
+P370;80.00000;Rio Cabriel (Fte E. Hosteleria)
+P371;83.00000;Rio Cabriel  (Archivo)
+P372;88.00000;Tras Consejeria Industria
+P223;91.00000;Rio Alberche 6;39.863724;-3.955195
+P224;92.00000;Rio Alberche 26;39.864908;-3.951970
+P225;94.00000;Rio Alberche (Edificio Correos);39.865909;-3.949385
+P345;95.00000;Rio Alberche (Biblioteca);39.866662;-3.947350
+P232;96.00000;Rio Alberche (Caja Madrid)
+P233;97.00000;Rio Alberche (Fte Monjas)
+P234;98.00000;Rio Alberche (Centro Cultural)
+P128;104.00000;Rio Alberche 112 (Cabecera 9);39.871550;-3.936440
+P001;205.00000;Corralillo de San Miguel;39.858966;-4.020902
+P029;199.00000;Zocodover (Cuesta Carlos V);39.858830;-4.021161
+P028;190.00000;Puerta Bisagra Interior;39.862120;-4.025389
+P211;183.00000;Rda. de Granadal (Est. Autobuses);39.863763;-4.020841
+P120;173.00000;Paseo de la Rosa (Renfe);39.862322;-4.012496
+P119;169.00000;Paseo de la Rosa (Fte Bar Telon);39.861839;-4.009253
+P118;168.00000;Paseo de la Rosa 15;39.862095;-4.005556
+P117;165.00000;Paseo de la Rosa (Estrella);39.861941;-4.001968
+P375;132.00000;Rio Cabriel (Fte E. Hosteleria)
+P374;130.00000;Rio Cabriel (Archivo)
+P373;126.00000;Tras Consejeria Industria
+P135;122.00000;Rio Alberche 1
+P134;121.00000;Rio Alberche 15
+P133;120.00000;Rio Alberche 25
+P132;116.00000;
+P131;113.00000;Rio Alberche (Caja Madrid);39.868006;-3.944231
+P130;111.00000;Rio Alberche (Estanco);39.868913;-3.941901
+P129;109.00000;Rio Alberche (Parque de la Luz);39.869969;-3.939262

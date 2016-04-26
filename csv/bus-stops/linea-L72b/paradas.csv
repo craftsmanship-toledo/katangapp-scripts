@@ -1,18 +1,18 @@
-P001;1.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
-P002;4.00000;Alferez Provisional, 1, Toledo, España
-P003;14.00000;Alfonso VI (Fuente), Toledo, España;39.862777;-4.025937
-P271;18.00000;Avda La Cava (Rtda Alfonso VI), Toledo, España;39.862296;-4.027872
-P272;25.00000;Ctra Navalpino (Puente), Toledo, España;39.858603;-4.037639
-P273;30.00000;Ctra Navalpino (Olivilla), Toledo, España;39.860072;-4.041773
-P274;35.00000;Ctra Navalpino (Camping), Toledo, España;39.861640;-4.046879
-P356;40.00000;Olivar, Toledo, España
-P351;71.00000;Montesion, Toledo, España
-P001;135.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
-P029;132.00000;Zocodover (Cuesta Carlos V), Toledo, España;39.858830;-4.021161
-P028;126.00000;Puerta Bisagra Interior, Toledo, España;39.862120;-4.025389
-P289;121.00000;Avda La Cava (Rtda. Alfonso VI), Toledo, España;39.862450;-4.028119
-P275;109.00000;Ctra Navalpino (Olivilla), Toledo, España;39.860086;-4.041298
-P341;105.00000;Ctra Navalpino (Fte Camping), Toledo, España;39.862050;-4.046817
-P340;102.00000;Airen 2, Toledo, España;39.862400;-4.052371
-P339;101.00000;Airen 1, Toledo, España
-P338;98.00000;Montesion - Rotonda, Toledo, España;39.862845;-4.058866
+P001;1.00000;Corralillo de San Miguel;39.858966;-4.020902
+P002;4.00000;Alferez Provisional, 1
+P003;14.00000;Alfonso VI (Fuente);39.862777;-4.025937
+P271;18.00000;Avda La Cava (Rtda Alfonso VI);39.862296;-4.027872
+P272;25.00000;Ctra Navalpino (Puente);39.858603;-4.037639
+P273;30.00000;Ctra Navalpino (Olivilla);39.860072;-4.041773
+P274;35.00000;Ctra Navalpino (Camping);39.861640;-4.046879
+P356;40.00000;Olivar
+P351;71.00000;Montesion
+P001;135.00000;Corralillo de San Miguel;39.858966;-4.020902
+P029;132.00000;Zocodover (Cuesta Carlos V);39.858830;-4.021161
+P028;126.00000;Puerta Bisagra Interior;39.862120;-4.025389
+P289;121.00000;Avda La Cava (Rtda. Alfonso VI);39.862450;-4.028119
+P275;109.00000;Ctra Navalpino (Olivilla);39.860086;-4.041298
+P341;105.00000;Ctra Navalpino (Fte Camping);39.862050;-4.046817
+P340;102.00000;Airen 2;39.862400;-4.052371
+P339;101.00000;Airen 1
+P338;98.00000;Montesion - Rotonda;39.862845;-4.058866

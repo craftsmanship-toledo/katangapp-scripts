@@ -1,34 +1,34 @@
-P255;1.00000;Pza del Conde (Palacio Fuensalida), Toledo, España;39.856182;-4.028232
-P256;10.00000;Plaza Barrio Nuevo, Toledo, España;39.856448;-4.030335
-P257;13.00000;, Toledo, España;39.857588;-4.031025
-P258;20.00000;, Toledo, España;39.859050;-4.031963
-P259;26.00000;Paseo de Recaredo (Rotonda), Toledo, España;39.862159;-4.0276796
-P004;31.00000;Avda Reconquista, 6, Toledo, España;39.8641395;-4.0279529
-P005;32.00000;Avda Reconquista, 14, Toledo, España;39.865705;-4.028521
-P006;33.00000;Avda Reconquista, 20, Toledo, España;39.866840;-4.028954
-P007;41.00000;Division Azul (Piscina), Toledo, España;39.869769;-4.029308
-P008;45.00000;Banderas de Castilla (Estanco), Toledo, España;39.871101;-4.031280
-P009;49.00000;Bruselas (Ambulatorio), Toledo, España;39.872161;-4.034870
-P010;52.00000;Lisboa (El Clavel), Toledo, España;39.873320;-4.034623
-P011;57.00000;Zaragoza (Colegio), Toledo, España;39.875133;-4.034691
-P012;60.00000;Avda Portugal (Sta. Casilda), Toledo, España;39.874631;-4.037049
-P255;167.00000;Pza del Conde (Palacio Fuensalida), Toledo, España;39.856182;-4.028232
-P254;155.00000;, Toledo, España;39.856448;-4.030335
-P253;152.00000;Reyes Catolicos, Toledo, España;39.857588;-4.031025
-P252;138.00000;Puente San Martin, Toledo, España;39.857715;-4.033573
-P251;128.00000;, Toledo, España;39.859412;-4.032533
-P027;118.00000;, Toledo, España;39.863010;-4.027696
-P026;117.00000;Avda Reconquista (Carmelitas), Toledo, España;39.865394;-4.028614
-P025;116.00000;Avda Reconquista (Nodal), Toledo, España;39.867254;-4.029313
-P024;111.00000;Division Azul (colegio), Toledo, España;39.869061;-4.029507
-P023;108.00000;, Toledo, España;39.870534;-4.031571
-P022;105.00000;Bruselas (Ambulatorio), Toledo, España;39.871706;-4.034126
-P021;100.00000;Lisboa (Gressy), Toledo, España;39.873166;-4.034884
-P020;97.00000;Zaragoza (Colegio), Toledo, España;39.875017;-4.034703
-P019;90.00000;Ronda Buenavista 28 (C.Comercial), Toledo, España;39.876260;-4.035737
-P018;89.00000;Ronda Buenavista 24 (Iglesia), Toledo, España;39.877235;-4.033282
-P017;83.00000;Ronda Buenavista 22 (Maristas), Toledo, España;39.879195;-4.032207
-P016;80.00000;Ronda Buenavista 18, Toledo, España;39.879827;-4.033586
-P015;76.00000;Ronda Buenavista, 16 (Alcosto), Toledo, España;39.878529;-4.035930
-P014;70.00000;Ronda Buenavista, 6, Toledo, España;39.876788;-4.038031
-P013;64.00000;Ronda Buenavista, 4, Toledo, España;39.874578;-4.040045
+P255;1.00000;Pza del Conde (Palacio Fuensalida);39.856182;-4.028232
+P256;10.00000;Plaza Barrio Nuevo;39.856448;-4.030335
+P257;13.00000;;39.857588;-4.031025
+P258;20.00000;;39.859050;-4.031963
+P259;26.00000;Paseo de Recaredo (Rotonda);39.862159;-4.0276796
+P004;31.00000;Avda Reconquista, 6;39.8641395;-4.0279529
+P005;32.00000;Avda Reconquista, 14;39.865705;-4.028521
+P006;33.00000;Avda Reconquista, 20;39.866840;-4.028954
+P007;41.00000;Division Azul (Piscina);39.869769;-4.029308
+P008;45.00000;Banderas de Castilla (Estanco);39.871101;-4.031280
+P009;49.00000;Bruselas (Ambulatorio);39.872161;-4.034870
+P010;52.00000;Lisboa (El Clavel);39.873320;-4.034623
+P011;57.00000;Zaragoza (Colegio);39.875133;-4.034691
+P012;60.00000;Avda Portugal (Sta. Casilda);39.874631;-4.037049
+P255;167.00000;Pza del Conde (Palacio Fuensalida);39.856182;-4.028232
+P254;155.00000;;39.856448;-4.030335
+P253;152.00000;Reyes Catolicos;39.857588;-4.031025
+P252;138.00000;Puente San Martin;39.857715;-4.033573
+P251;128.00000;;39.859412;-4.032533
+P027;118.00000;;39.863010;-4.027696
+P026;117.00000;Avda Reconquista (Carmelitas);39.865394;-4.028614
+P025;116.00000;Avda Reconquista (Nodal);39.867254;-4.029313
+P024;111.00000;Division Azul (colegio);39.869061;-4.029507
+P023;108.00000;;39.870534;-4.031571
+P022;105.00000;Bruselas (Ambulatorio);39.871706;-4.034126
+P021;100.00000;Lisboa (Gressy);39.873166;-4.034884
+P020;97.00000;Zaragoza (Colegio);39.875017;-4.034703
+P019;90.00000;Ronda Buenavista 28 (C.Comercial);39.876260;-4.035737
+P018;89.00000;Ronda Buenavista 24 (Iglesia);39.877235;-4.033282
+P017;83.00000;Ronda Buenavista 22 (Maristas);39.879195;-4.032207
+P016;80.00000;Ronda Buenavista 18;39.879827;-4.033586
+P015;76.00000;Ronda Buenavista, 16 (Alcosto);39.878529;-4.035930
+P014;70.00000;Ronda Buenavista, 6;39.876788;-4.038031
+P013;64.00000;Ronda Buenavista, 4;39.874578;-4.040045

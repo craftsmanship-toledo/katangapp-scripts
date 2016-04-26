@@ -1,25 +1,25 @@
-P001;1.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
-P104;7.00000;Zocodover (Plaza), Toledo, España;39.859407;-4.021036
-P032;18.00000;Cardenal Tavera (La Vega), Toledo, España;39.863504;-4.024522
-P033;21.00000;M. Mendigorria (Cines), Toledo, España;39.866516;-4.022734
-P107;28.00000;Ronda San Anton (Bomberos), Toledo, España;39.869688;-4.020563
-P108;38.00000;Avd Castilla La Mancha -Est Futbol, Toledo, España;39.870323;-4.016580
-P109;45.00000;Estacion de Autobuses (Ida), Toledo, España;39.865541;-4.020265
-P110;59.00000;Paseo de la Rosa (Fte Renfe), Toledo, España;39.861982;-4.012230
-P111;64.00000;Paseo de la Rosa (Bar Telon), Toledo, España;39.861566;-4.009281
-P112;70.00000;Plaza de Santa Barbara, Toledo, España;39.860038;-4.005791
-P001;181.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
-P029;176.00000;Zocodover (Cuesta Carlos V), Toledo, España;39.858830;-4.021161
-P056;165.00000;Cardenal Tavera (La Vega), Toledo, España;39.863705;-4.024703
-P055;162.00000;M. Mendigorria (colegio), Toledo, España;39.865829;-4.023410
-P054;159.00000;M. Mendigorria (Electricistas), Toledo, España;39.868091;-4.022116
-P122;149.00000;Avd Castilla la Mancha -Est Futbol, Toledo, España
-P121;119.00000;Estacion Autobuses (Vta), Toledo, España;39.865541;-4.020265
-P120;105.00000;Paseo de la Rosa (Renfe), Toledo, España;39.862322;-4.012496
-P119;102.00000;Paseo de la Rosa (Fte Bar Telon), Toledo, España;39.861839;-4.009253
-P118;100.00000;Paseo de la Rosa 15, Toledo, España;39.862095;-4.005556
-P117;97.00000;Paseo de la Rosa (Estrella), Toledo, España;39.861941;-4.001968
-P116;88.00000;Avda Santa Barbara (Rotonda), Toledo, España;39.860577;-4.000114
-P115;85.00000;Avda Sta Barbara (Polideportivo), Toledo, España;39.858973;-3.999633
-P114;78.00000;Esparteros 20, Toledo, España;39.858632;-4.001354
-P113;74.00000;Arroyo (Estanco), Toledo, España;39.859297;-4.004265
+P001;1.00000;Corralillo de San Miguel;39.858966;-4.020902
+P104;7.00000;Zocodover (Plaza);39.859407;-4.021036
+P032;18.00000;Cardenal Tavera (La Vega);39.863504;-4.024522
+P033;21.00000;M. Mendigorria (Cines);39.866516;-4.022734
+P107;28.00000;Ronda San Anton (Bomberos);39.869688;-4.020563
+P108;38.00000;Avd Castilla La Mancha -Est Futbol;39.870323;-4.016580
+P109;45.00000;Estacion de Autobuses (Ida);39.865541;-4.020265
+P110;59.00000;Paseo de la Rosa (Fte Renfe);39.861982;-4.012230
+P111;64.00000;Paseo de la Rosa (Bar Telon);39.861566;-4.009281
+P112;70.00000;Plaza de Santa Barbara;39.860038;-4.005791
+P001;181.00000;Corralillo de San Miguel;39.858966;-4.020902
+P029;176.00000;Zocodover (Cuesta Carlos V);39.858830;-4.021161
+P056;165.00000;Cardenal Tavera (La Vega);39.863705;-4.024703
+P055;162.00000;M. Mendigorria (colegio);39.865829;-4.023410
+P054;159.00000;M. Mendigorria (Electricistas);39.868091;-4.022116
+P122;149.00000;Avd Castilla la Mancha -Est Futbol
+P121;119.00000;Estacion Autobuses (Vta);39.865541;-4.020265
+P120;105.00000;Paseo de la Rosa (Renfe);39.862322;-4.012496
+P119;102.00000;Paseo de la Rosa (Fte Bar Telon);39.861839;-4.009253
+P118;100.00000;Paseo de la Rosa 15;39.862095;-4.005556
+P117;97.00000;Paseo de la Rosa (Estrella);39.861941;-4.001968
+P116;88.00000;Avda Santa Barbara (Rotonda);39.860577;-4.000114
+P115;85.00000;Avda Sta Barbara (Polideportivo);39.858973;-3.999633
+P114;78.00000;Esparteros 20;39.858632;-4.001354
+P113;74.00000;Arroyo (Estanco);39.859297;-4.004265

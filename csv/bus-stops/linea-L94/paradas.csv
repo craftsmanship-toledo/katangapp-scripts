@@ -1,49 +1,49 @@
-P001;1.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
-P104;6.00000;Zocodover (Plaza), Toledo, España;39.859407;-4.021036
-317;15.00000;Bar El Clavel, Toledo, España;39.862583;-4.024851
-P217;18.00000;Carrera (Fte muralla), Toledo, España;39.863573;-4.022275
-P110;32.00000;Paseo de la Rosa (Fte Renfe), Toledo, España;39.861982;-4.012230
-P111;36.00000;Paseo de la Rosa (Bar Telon), Toledo, España;39.861566;-4.009281
-P112;41.00000;Plaza de Santa Barbara, Toledo, España;39.860038;-4.005791
-P113;44.00000;Arroyo (Estanco), Toledo, España;39.859297;-4.004265
-P114;46.00000;Esparteros 20, Toledo, España;39.858632;-4.001354
-P115;50.00000;Avda Sta Barbara (Polideportivo), Toledo, España;39.858973;-3.999633
-P116;53.00000;Avda Santa Barbara (Rotonda), Toledo, España;39.860577;-4.000114
-P178;79.00000;Arroyomolinos (Gasolinera), Toledo, España;39.865121;-3.970201
-P179;83.00000;Jarama (Campsa), Toledo, España
-P180;85.00000;Jarama (Unauto), Toledo, España
-P181;88.00000;, Toledo, España
-P222;94.00000;, Toledo, España
-P223;97.00000;Rio Alberche 6, Toledo, España;39.863724;-3.955195
-P224;98.00000;Rio Alberche 26, Toledo, España;39.864908;-3.951970
-P225;99.00000;Rio Alberche (Edificio Correos), Toledo, España;39.865909;-3.949385
-P345;100.00000;Rio Alberche (Biblioteca), Toledo, España;39.866662;-3.947350
-P232;101.00000;Rio Alberche (Caja Madrid), Toledo, España
-P233;102.00000;Rio Alberche (Fte Monjas), Toledo, España
-P234;103.00000;Rio Alberche (Centro Cultural), Toledo, España
-P385;107.00000;Rio Alberche (cabecera), Toledo, España
-P001;208.00000;Corralillo de San Miguel, Toledo, España;39.858966;-4.020902
-P029;203.00000;Zocodover (Cuesta Carlos V), Toledo, España;39.858830;-4.021161
-P028;196.00000;Puerta Bisagra Interior, Toledo, España;39.862120;-4.025389
-P211;189.00000;Rda. de Granadal (Est. Autobuses), Toledo, España;39.863763;-4.020841
-P120;181.00000;Paseo de la Rosa (Renfe), Toledo, España;39.862322;-4.012496
-P119;178.00000;Paseo de la Rosa (Fte Bar Telon), Toledo, España;39.861839;-4.009253
-P118;177.00000;Paseo de la Rosa 15, Toledo, España;39.862095;-4.005556
-P117;174.00000;Paseo de la Rosa (Estrella), Toledo, España;39.861941;-4.001968
-P145;170.00000;Purisima Concepcion, Toledo, España;39.860829;-4.003812
-P144;168.00000;Plaza de Santa Barbara, Toledo, España;39.860186;-4.005392
-P143;164.00000;Avda Santa  Barbara, Toledo, España;39.859066;-4.004305
-P141;156.00000;Avda Santa Barbara, Toledo, España;39.859445;-3.999831
-P140;137.00000;Jarama (Mercado Mayoristas), Toledo, España;39.864743;-3.974569
-P139;133.00000;Jarama (A.B.M.), Toledo, España;39.866259;-3.967873
-P138;132.00000;Jarama (Unauto), Toledo, España;39.868929;-3.960132
-P137;131.00000;Jarama (conf. Estenilla), Toledo, España
-P182;129.00000;Jarama (Janssen), Toledo, España
-P183;128.00000;Jarama (conf Guadarrama), Toledo, España;39.872909;-3.949305
-P184;127.00000;Jarama (ITV), Toledo, España
-P185;126.00000;, Toledo, España
-P186;125.00000;Jarama (Trinaranjus), Toledo, España
-P389;123.00000;Jarama (Galvanizados), Toledo, España
-P388;122.00000;Jarama (Grupo Prolux), Toledo, España
-P387;120.00000;Molino de Viento (UNAUTO), Toledo, España
-P386;117.00000;Via Servicio (Fase III), Toledo, España
+P001;1.00000;Corralillo de San Miguel;39.858966;-4.020902
+P104;6.00000;Zocodover (Plaza);39.859407;-4.021036
+317;15.00000;Bar El Clavel;39.862583;-4.024851
+P217;18.00000;Carrera (Fte muralla);39.863573;-4.022275
+P110;32.00000;Paseo de la Rosa (Fte Renfe);39.861982;-4.012230
+P111;36.00000;Paseo de la Rosa (Bar Telon);39.861566;-4.009281
+P112;41.00000;Plaza de Santa Barbara;39.860038;-4.005791
+P113;44.00000;Arroyo (Estanco);39.859297;-4.004265
+P114;46.00000;Esparteros 20;39.858632;-4.001354
+P115;50.00000;Avda Sta Barbara (Polideportivo);39.858973;-3.999633
+P116;53.00000;Avda Santa Barbara (Rotonda);39.860577;-4.000114
+P178;79.00000;Arroyomolinos (Gasolinera);39.865121;-3.970201
+P179;83.00000;Jarama (Campsa)
+P180;85.00000;Jarama (Unauto)
+P181;88.00000;
+P222;94.00000;
+P223;97.00000;Rio Alberche 6;39.863724;-3.955195
+P224;98.00000;Rio Alberche 26;39.864908;-3.951970
+P225;99.00000;Rio Alberche (Edificio Correos);39.865909;-3.949385
+P345;100.00000;Rio Alberche (Biblioteca);39.866662;-3.947350
+P232;101.00000;Rio Alberche (Caja Madrid)
+P233;102.00000;Rio Alberche (Fte Monjas)
+P234;103.00000;Rio Alberche (Centro Cultural)
+P385;107.00000;Rio Alberche (cabecera)
+P001;208.00000;Corralillo de San Miguel;39.858966;-4.020902
+P029;203.00000;Zocodover (Cuesta Carlos V);39.858830;-4.021161
+P028;196.00000;Puerta Bisagra Interior;39.862120;-4.025389
+P211;189.00000;Rda. de Granadal (Est. Autobuses);39.863763;-4.020841
+P120;181.00000;Paseo de la Rosa (Renfe);39.862322;-4.012496
+P119;178.00000;Paseo de la Rosa (Fte Bar Telon);39.861839;-4.009253
+P118;177.00000;Paseo de la Rosa 15;39.862095;-4.005556
+P117;174.00000;Paseo de la Rosa (Estrella);39.861941;-4.001968
+P145;170.00000;Purisima Concepcion;39.860829;-4.003812
+P144;168.00000;Plaza de Santa Barbara;39.860186;-4.005392
+P143;164.00000;Avda Santa  Barbara;39.859066;-4.004305
+P141;156.00000;Avda Santa Barbara;39.859445;-3.999831
+P140;137.00000;Jarama (Mercado Mayoristas);39.864743;-3.974569
+P139;133.00000;Jarama (A.B.M.);39.866259;-3.967873
+P138;132.00000;Jarama (Unauto);39.868929;-3.960132
+P137;131.00000;Jarama (conf. Estenilla)
+P182;129.00000;Jarama (Janssen)
+P183;128.00000;Jarama (conf Guadarrama);39.872909;-3.949305
+P184;127.00000;Jarama (ITV)
+P185;126.00000;
+P186;125.00000;Jarama (Trinaranjus)
+P389;123.00000;Jarama (Galvanizados)
+P388;122.00000;Jarama (Grupo Prolux)
+P387;120.00000;Molino de Viento (UNAUTO)
+P386;117.00000;Via Servicio (Fase III)

@@ -1,60 +1,60 @@
-P128;1.00000;Rio Alberche 112 (Cabecera 9), Toledo, España;39.871550;-3.936440
-P129;5.00000;Rio Alberche (Parque de la Luz), Toledo, España;39.869969;-3.939262
-P130;6.00000;Rio Alberche (Estanco), Toledo, España;39.868913;-3.941901
-P131;7.00000;Rio Alberche (Caja Madrid), Toledo, España;39.868006;-3.944231
-P132;8.00000;, Toledo, España
-P133;9.00000;Rio Alberche 25, Toledo, España
-P134;10.00000;Rio Alberche 15, Toledo, España
-P135;11.00000;Rio Alberche 1, Toledo, España
-P322;15.00000;Avda Boladiez (Res. Ancianos), Toledo, España
-P323;17.00000;Avda Boladiez (Television), Toledo, España;39.861961;-3.956369
-323b;19.00000;SESCAM, Toledo, España;39.860545;-3.963306
-321b;26.00000;Centro Comercial Eroski, Toledo, España;39.862096;-3.972643
-P324;34.00000;Via Tarpeya (Rotonda), Toledo, España;39.860809;-3.968794
-P178;39.00000;Arroyomolinos (Gasolinera), Toledo, España;39.865121;-3.970201
-P140;44.00000;Jarama (Mercado Mayoristas), Toledo, España;39.864743;-3.974569
-P117;58.00000;Paseo de la Rosa (Estrella), Toledo, España;39.861941;-4.001968
-P118;60.00000;Paseo de la Rosa 15, Toledo, España;39.862095;-4.005556
-P119;61.00000;Paseo de la Rosa (Fte Bar Telon), Toledo, España;39.861839;-4.009253
-P120;64.00000;Paseo de la Rosa (Renfe), Toledo, España;39.862322;-4.012496
-P121;71.00000;Estacion Autobuses (Vta), Toledo, España;39.865541;-4.020265
-P122;94.00000;Avd Castilla la Mancha -Est Futbol, Toledo, España
-P034;100.00000;General Villalba 19, Toledo, España;39.868948;-4.022040
-P153;102.00000;General Villalba 3, Toledo, España;39.868682;-4.024785
-P035;105.00000;Avda Europa (I. San Julian), Toledo, España;39.869436;-4.026222
-P036;106.00000;Avda Europa (Iberdrola), Toledo, España;39.871544;-4.027715
-P037;110.00000;, Toledo, España;39.873872;-4.029482
-P038;111.00000;Avda Europa (Escalera CEI), Toledo, España;39.876321;-4.031286
-P018;116.00000;Ronda Buenavista 24 (Iglesia), Toledo, España;39.877235;-4.033282
-P019;117.00000;Ronda Buenavista 28 (C.Comercial), Toledo, España;39.876260;-4.035737
-P020;124.00000;Zaragoza (Colegio), Toledo, España;39.875017;-4.034703
-P021;126.00000;Lisboa (Gressy), Toledo, España;39.873166;-4.034884
-P022;131.00000;Bruselas (Ambulatorio), Toledo, España;39.871706;-4.034126
-P128;264.00000;Rio Alberche 112 (Cabecera 9), Toledo, España;39.871550;-3.936440
-P234;258.00000;Rio Alberche (Centro Cultural), Toledo, España
-P233;257.00000;Rio Alberche (Fte Monjas), Toledo, España
-P232;256.00000;Rio Alberche (Caja Madrid), Toledo, España
-P345;255.00000;Rio Alberche (Biblioteca), Toledo, España;39.866662;-3.947350
-P225;253.00000;Rio Alberche (Edificio Correos), Toledo, España;39.865909;-3.949385
-P224;251.00000;Rio Alberche 26, Toledo, España;39.864908;-3.951970
-P223;248.00000;Rio Alberche 6, Toledo, España;39.863724;-3.955195
-P344;243.00000;Avda Boladiez (Fte. Res. Ancianos), Toledo, España
-P343;239.00000;Avda Boladiez (Fte Television), Toledo, España;39.861752;-3.956237
-P343a;237.00000;SESCAM, Toledo, España;39.860301;-3.963263
-321;228.00000;Centro Comercial Eroski, Toledo, España;39.862096;-3.972643
-315;224.00000;Via Tarpeya Rotonda, Toledo, España;39.860675;-3.969087
-P116;204.00000;Avda Santa Barbara (Rotonda), Toledo, España;39.860577;-4.000114
-P115;201.00000;Avda Sta Barbara (Polideportivo), Toledo, España;39.858973;-3.999633
-P114;196.00000;Esparteros 20, Toledo, España;39.858632;-4.001354
-P113;194.00000;Arroyo (Estanco), Toledo, España;39.859297;-4.004265
-P112;192.00000;Plaza de Santa Barbara, Toledo, España;39.860038;-4.005791
-P111;187.00000;Paseo de la Rosa (Bar Telon), Toledo, España;39.861566;-4.009281
-P110;183.00000;Paseo de la Rosa (Fte Renfe), Toledo, España;39.861982;-4.012230
-P109;169.00000;Estacion de Autobuses (Ida), Toledo, España;39.865541;-4.020265
-P108;162.00000;Avd Castilla La Mancha -Est Futbol, Toledo, España;39.870323;-4.016580
-P107;153.00000;Ronda San Anton (Bomberos), Toledo, España;39.869688;-4.020563
-P053;149.00000;General Villalba 24, Toledo, España;39.868773;-4.022034
-P052;147.00000;General Villalba, 6, Toledo, España;39.868513;-4.024700
-P165;145.00000;General Villalba (Escuela), Toledo, España;39.867877;-4.026436
-P024;136.00000;Division Azul (colegio), Toledo, España;39.869061;-4.029507
-P023;134.00000;, Toledo, España;39.870534;-4.031571
+P128;1.00000;Rio Alberche 112 (Cabecera 9);39.871550;-3.936440
+P129;5.00000;Rio Alberche (Parque de la Luz);39.869969;-3.939262
+P130;6.00000;Rio Alberche (Estanco);39.868913;-3.941901
+P131;7.00000;Rio Alberche (Caja Madrid);39.868006;-3.944231
+P132;8.00000;
+P133;9.00000;Rio Alberche 25
+P134;10.00000;Rio Alberche 15
+P135;11.00000;Rio Alberche 1
+P322;15.00000;Avda Boladiez (Res. Ancianos)
+P323;17.00000;Avda Boladiez (Television);39.861961;-3.956369
+323b;19.00000;SESCAM;39.860545;-3.963306
+321b;26.00000;Centro Comercial Eroski;39.862096;-3.972643
+P324;34.00000;Via Tarpeya (Rotonda);39.860809;-3.968794
+P178;39.00000;Arroyomolinos (Gasolinera);39.865121;-3.970201
+P140;44.00000;Jarama (Mercado Mayoristas);39.864743;-3.974569
+P117;58.00000;Paseo de la Rosa (Estrella);39.861941;-4.001968
+P118;60.00000;Paseo de la Rosa 15;39.862095;-4.005556
+P119;61.00000;Paseo de la Rosa (Fte Bar Telon);39.861839;-4.009253
+P120;64.00000;Paseo de la Rosa (Renfe);39.862322;-4.012496
+P121;71.00000;Estacion Autobuses (Vta);39.865541;-4.020265
+P122;94.00000;Avd Castilla la Mancha -Est Futbol
+P034;100.00000;General Villalba 19;39.868948;-4.022040
+P153;102.00000;General Villalba 3;39.868682;-4.024785
+P035;105.00000;Avda Europa (I. San Julian);39.869436;-4.026222
+P036;106.00000;Avda Europa (Iberdrola);39.871544;-4.027715
+P037;110.00000;;39.873872;-4.029482
+P038;111.00000;Avda Europa (Escalera CEI);39.876321;-4.031286
+P018;116.00000;Ronda Buenavista 24 (Iglesia);39.877235;-4.033282
+P019;117.00000;Ronda Buenavista 28 (C.Comercial);39.876260;-4.035737
+P020;124.00000;Zaragoza (Colegio);39.875017;-4.034703
+P021;126.00000;Lisboa (Gressy);39.873166;-4.034884
+P022;131.00000;Bruselas (Ambulatorio);39.871706;-4.034126
+P128;264.00000;Rio Alberche 112 (Cabecera 9);39.871550;-3.936440
+P234;258.00000;Rio Alberche (Centro Cultural)
+P233;257.00000;Rio Alberche (Fte Monjas)
+P232;256.00000;Rio Alberche (Caja Madrid)
+P345;255.00000;Rio Alberche (Biblioteca);39.866662;-3.947350
+P225;253.00000;Rio Alberche (Edificio Correos);39.865909;-3.949385
+P224;251.00000;Rio Alberche 26;39.864908;-3.951970
+P223;248.00000;Rio Alberche 6;39.863724;-3.955195
+P344;243.00000;Avda Boladiez (Fte. Res. Ancianos)
+P343;239.00000;Avda Boladiez (Fte Television);39.861752;-3.956237
+P343a;237.00000;SESCAM;39.860301;-3.963263
+321;228.00000;Centro Comercial Eroski;39.862096;-3.972643
+315;224.00000;Via Tarpeya Rotonda;39.860675;-3.969087
+P116;204.00000;Avda Santa Barbara (Rotonda);39.860577;-4.000114
+P115;201.00000;Avda Sta Barbara (Polideportivo);39.858973;-3.999633
+P114;196.00000;Esparteros 20;39.858632;-4.001354
+P113;194.00000;Arroyo (Estanco);39.859297;-4.004265
+P112;192.00000;Plaza de Santa Barbara;39.860038;-4.005791
+P111;187.00000;Paseo de la Rosa (Bar Telon);39.861566;-4.009281
+P110;183.00000;Paseo de la Rosa (Fte Renfe);39.861982;-4.012230
+P109;169.00000;Estacion de Autobuses (Ida);39.865541;-4.020265
+P108;162.00000;Avd Castilla La Mancha -Est Futbol;39.870323;-4.016580
+P107;153.00000;Ronda San Anton (Bomberos);39.869688;-4.020563
+P053;149.00000;General Villalba 24;39.868773;-4.022034
+P052;147.00000;General Villalba, 6;39.868513;-4.024700
+P165;145.00000;General Villalba (Escuela);39.867877;-4.026436
+P024;136.00000;Division Azul (colegio);39.869061;-4.029507
+P023;134.00000;;39.870534;-4.031571
