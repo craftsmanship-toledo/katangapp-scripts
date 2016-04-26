@@ -50,7 +50,7 @@ do
 	do
 		echo "Capturing Address for BusStop $idp with order $ido ..."
 
-		echo "$idp;$ido;`curl -s "http://unauto.twa.es/code/getparadas.php?idl=$routeId&idp=$idp&ido=$ido" | sed -n 's:.*<h3 id="titparada">Parada\: \(.*\)</h3>.*:\1:p'`, Toledo, España" >> $ADDRESSES_TEMP_FILE
+		echo "$idp;$ido;`curl -s "http://unauto.twa.es/code/getparadas.php?idl=$routeId&idp=$idp&ido=$ido" | sed -n 's:.*<h3 id="titparada">Parada\: \(.*\)</h3>.*:\1:p'`" >> $ADDRESSES_TEMP_FILE
 
 	done < $OUTPUTFILE
 
