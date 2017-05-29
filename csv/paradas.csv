@@ -6,7 +6,7 @@
 321;Centro Comercial Eroski;39.862096;-3.972643
 321b;Centro Comercial Eroski;39.862096;-3.972643
 323b;SESCAM;39.860545;-3.963306
-400;AV.CARLOS 3 PARQUE;;
+400;AV.CARLOS III (Aparcamiento);;
 P001;Corralillo de San Miguel;39.858966;-4.020902
 P002;Alferez Provisional, 1;;
 P003;Alfonso VI (Fuente);39.862777;-4.025937
@@ -201,13 +201,11 @@ P331;Hospital Tres Culturas;39.884179;-4.041106
 P332;Hospital Tres Culturas (vta);39.884179;-4.041106
 P333;La Legua;;
 P334;Vda Mas del Ribero - Rotonda;;
-P335;Avda Carlos III (Aparcamiento);;
 P336;Avda Carlos III (Aparcamiento);;
 P337;Avda Carlos III (Venta de Aires);;
 P338;Montesion - Rotonda;39.862845;-4.058866
 P339;Airen 1;;
 P340;Airen 2;39.862400;-4.052371
-P341;Ctra Navalpino (Fte Camping);39.862050;-4.046817
 P342;C/ Guadarrama Fte. Casa La Carne;39.869967;-3.946899
 P343;Avda Boladiez (Fte Television);39.861752;-3.956237
 P343a;SESCAM;39.860301;-3.963263
@@ -246,5 +244,7 @@ P393;Rotonda Mercadona;;
 P394;Guadarrama - Rtda Alcaceres;;
 P395;Fte Edificio Hierbabuena;;
 P396;Edificio Hierbabuena;;
+P431;Remonte SAFONT;;
+P432;Avda Carlos III -Parque Escolar;;
 P444;;;
 P445;Hotel Beatriz;39.878806;-4.040717
